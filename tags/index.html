@@ -367,10 +367,43 @@
             </div>
             <div class="tag-chips">
                 
+                
+                <a href="/tags/%E7%BF%BB%E5%A2%99/" title="翻墙: 1">
+                    <span class="chip center-align waves-effect waves-light
+                             chip-default "
+                            data-tagname="翻墙" style="background-color: #F9EBEA;">翻墙
+                        <span class="tag-length">1</span>
+                    </span>
+                </a>
+                
             </div>
         </div>
     </div>
 </div>
+
+    
+    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/gh/mengclub/mengclub.github.io/libs/jqcloud/jqcloud.css">
+<style type="text/css">
+    #tag-wordcloud {
+        width: 100%;
+        height: 300px;
+    }
+</style>
+
+<div class="container" data-aos="fade-up">
+    <div class="card">
+        <div id="tag-wordcloud" class="card-content"></div>
+    </div>
+</div>
+
+<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/mengclub/mengclub.github.io/libs/jqcloud/jqcloud-1.0.4.min.js"></script>
+<script type="text/javascript">
+    
+
+    $('#tag-wordcloud').jQCloud([{"text":"翻墙","weight":1,"link":"/tags/翻墙/"}], {
+        autoResize: true
+    });
+</script>
 
     
 
@@ -457,11 +490,6 @@
                     <span id="busuanzi_value_site_pv" class="white-color"></span>
             </span>
             
-            
-                <span id="busuanzi_container_site_uv">
-                &nbsp;|&nbsp;<i class="fas fa-users"></i>&nbsp;总访问人数:&nbsp;
-                    <span id="busuanzi_value_site_uv" class="white-color"></span>
-            </span>
             
             <br>
 
