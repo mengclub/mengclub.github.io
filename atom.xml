@@ -6,7 +6,7 @@
   <link href="https://mengclub.github.io/atom.xml" rel="self"/>
   
   <link href="https://mengclub.github.io/"/>
-  <updated>2021-06-07T07:03:37.955Z</updated>
+  <updated>2021-06-07T15:05:33.164Z</updated>
   <id>https://mengclub.github.io/</id>
   
   <author>
@@ -17,11 +17,38 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>代理工具客户端</title>
+    <link href="https://mengclub.github.io/2021/06/07/%E4%BB%A3%E7%90%86%E5%B7%A5%E5%85%B7%E5%AE%A2%E6%88%B7%E7%AB%AF/"/>
+    <id>https://mengclub.github.io/2021/06/07/%E4%BB%A3%E7%90%86%E5%B7%A5%E5%85%B7%E5%AE%A2%E6%88%B7%E7%AB%AF/</id>
+    <published>2021-06-07T15:04:39.000Z</published>
+    <updated>2021-06-07T15:05:33.164Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;&lt;strong&gt;教程已经很详细了，请自行摸索。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;通过SSR/V2ray/Clash越狱，其实很简单，总的来说分为两大步：&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;找到机场「提供的线路链接」
+用各平台代理客户端，「导入链接」，最后开启即可越狱
+&lt;/cod</summary>
+        
+      
+    
+    
+    
+    
+    <category term="翻墙" scheme="https://mengclub.github.io/tags/%E7%BF%BB%E5%A2%99/"/>
+    
+  </entry>
+  
+  <entry>
     <title>Win/MAC/ios/Android一键翻墙</title>
     <link href="https://mengclub.github.io/2021/06/07/Win-MAC-ios-Android%E4%B8%80%E9%94%AE%E7%BF%BB%E5%A2%99/"/>
     <id>https://mengclub.github.io/2021/06/07/Win-MAC-ios-Android%E4%B8%80%E9%94%AE%E7%BF%BB%E5%A2%99/</id>
     <published>2021-06-07T06:44:04.000Z</published>
-    <updated>2021-06-07T07:03:37.955Z</updated>
+    <updated>2021-06-07T13:04:19.703Z</updated>
     
     
       
