@@ -6,7 +6,7 @@
   <link href="https://mengclub.github.io/atom.xml" rel="self"/>
   
   <link href="https://mengclub.github.io/"/>
-  <updated>2021-06-07T05:36:17.238Z</updated>
+  <updated>2021-06-07T07:03:37.955Z</updated>
   <id>https://mengclub.github.io/</id>
   
   <author>
@@ -15,6 +15,30 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Win/MAC/ios/Android一键翻墙</title>
+    <link href="https://mengclub.github.io/2021/06/07/Win-MAC-ios-Android%E4%B8%80%E9%94%AE%E7%BF%BB%E5%A2%99/"/>
+    <id>https://mengclub.github.io/2021/06/07/Win-MAC-ios-Android%E4%B8%80%E9%94%AE%E7%BF%BB%E5%A2%99/</id>
+    <published>2021-06-07T06:44:04.000Z</published>
+    <updated>2021-06-07T07:03:37.955Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;&lt;strong&gt;教程已经很详细了，请自行摸索。&lt;/strong&gt;&lt;/p&gt;
+&lt;h1 id=&quot;WIN端一键fq工具&quot;&gt;&lt;a href=&quot;#WIN端一键fq工具&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    
+    <category term="翻墙" scheme="https://mengclub.github.io/tags/%E7%BF%BB%E5%A2%99/"/>
+    
+  </entry>
   
   <entry>
     <title>超详细的翻墙科普教程</title>
@@ -38,40 +62,6 @@
     
     
     <category term="翻墙" scheme="https://mengclub.github.io/tags/%E7%BF%BB%E5%A2%99/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>New</title>
-    <link href="https://mengclub.github.io/2021/06/07/New/"/>
-    <id>https://mengclub.github.io/2021/06/07/New/</id>
-    <published>2021-06-07T02:26:43.000Z</published>
-    <updated>2021-06-07T02:26:43.411Z</updated>
-    
-    
-    
-    
-    
-  </entry>
-  
-  <entry>
-    <title>Hello World</title>
-    <link href="https://mengclub.github.io/2021/06/07/hello-world/"/>
-    <id>https://mengclub.github.io/2021/06/07/hello-world/</id>
-    <published>2021-06-07T02:14:00.628Z</published>
-    <updated>2021-06-07T02:14:00.628Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt;</summary>
-        
-      
-    
-    
-    
     
   </entry>
   
