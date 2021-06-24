@@ -266,7 +266,7 @@ mark {
 }
 
 .bg-color {
-  background-image: linear-gradient(to right,#623AA2 0%,#F97794 100%);
+    background-image: linear-gradient(to right, #8cbfb8 0%, #128c6f 100%);
 }
 
 .text-color {
@@ -2162,4 +2162,10 @@ footer .copy-right {
     height: 50px;
     padding: 0;
     margin: 0;
+}
+
+#busuanzi_container_site_pv,
+#busuanzi_value_site_pv,
+#busuanzi_container_site_uv{
+   display: inline !important;
 }
