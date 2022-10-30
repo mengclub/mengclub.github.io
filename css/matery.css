@@ -1201,7 +1201,7 @@ article .article-tags .chip {
     padding: 0 2px;
     color: #42b983;
     font-weight: 500;
-    text-decoration: underline;
+    text-decoration: none;
     word-wrap: break-word;
 }
 
