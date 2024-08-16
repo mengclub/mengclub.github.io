@@ -65,6 +65,77 @@
       </tags>
   </entry>
   <entry>
+    <title>代理工具客户端</title>
+    <url>/2021/06/08/dai-li-gong-ju-ke-hu-duan/</url>
+    <content><![CDATA[<p><strong>切勿翻牆从事违法行为，否则后果自负！</strong><br><strong>遵守中国互联网法，做一个遵纪守法的好公民。</strong><br><strong>声明：本人分享教程、软件，仅限于科学研究和学习使用。</strong>  </p>
+<p>通过SSR/V2ray/Clash越狱，其实很简单，总的来说分为两大步：</p>
+<pre><code>找到机场「提供的线路链接」
+用各平台代理客户端，「导入链接」，最后开启即可越狱
+</code></pre>
+<p>后期代理软件不用换，只需要更新线路就行！</p>
+<p>因此困难的不是软件的使用，而是找机场，下载好客户端后搭配这篇文章的机场使用：<a href="https://maomeng.xyz/2021/06/11/ji-chang-tui-jian-chang-qi-geng-xin/">点击前往</a></p>
+<h3 id="1-ios-客户端-国区不可下载-仅其他区可下载"><a href="#1-ios-客户端-国区不可下载-仅其他区可下载" class="headerlink" title="1.ios 客户端 (国区不可下载,仅其他区可下载)"></a>1.ios 客户端 (国区不可下载,仅其他区可下载)</h3><h4 id="小火箭共享账号"><a href="#小火箭共享账号" class="headerlink" title="小火箭共享账号"></a>小火箭共享账号</h4><p><font color="red"><b>共享账号请在AppStore登录，请勿在设置里登录！</b></font></p>
+<ul>
+<li><a href="https://idshare001.me/goso.html">小火箭账号分享站1</a></li>
+<li><a href="https://app.idshare.xyz/">小火箭账号分享站2</a></li>
+<li><a href="https://id.fcjs.xyz/">小火箭账号分享站3</a></li>
+<li><a href="https://zcjd.top/s/">小火箭账号分享站4</a></li>
+<li><a href="https://ccbaohe.com/appleID/">小火箭账号分享站5</a></li>
+<li><a href="https://free.iosapp.icu/">小火箭账号分享站6</a></li>
+</ul>
+<p><strong>以下软件除<code>国区App Store</code>外均可下载</strong></p>
+<ul>
+<li>Surge</li>
+<li>Quantumult</li>
+<li>Quantumult X</li>
+<li>Shadowrocket</li>
+<li>Loon</li>
+<li>Sing-box</li>
+<li>Stash</li>
+</ul>
+<h3 id="2-macOS-客户端"><a href="#2-macOS-客户端" class="headerlink" title="2.macOS 客户端"></a>2.macOS 客户端</h3><ul>
+<li><a href="https://xz1.531131.xyz/https://github.com/fqw389/download/releases/download/download/ClashX_1.118.0.dmg">ClashX</a></li>
+<li><a href="https://xz1.531131.xyz/https://github.com/fqw389/download/releases/download/download/V2rayU_4.1.0.dmg">V2rayU</a></li>
+</ul>
+<h3 id="3-Windows-客户端"><a href="#3-Windows-客户端" class="headerlink" title="3.Windows 客户端"></a>3.Windows 客户端</h3><ul>
+<li><a href="https://xz1.531131.xyz/https://github.com/fqw389/download/releases/download/download/Clash_For_Windows.-0.20.39.7z" title="Clash for Windows">Clash for Windows</a> </li>
+<li><a href="https://xz1.531131.xyz/https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v1.4.10/Clash.Verge_1.4.10_x64_portable.zip">Clash Verge Rev</a></li>
+<li><a href="https://xz1.531131.xyz/https://github.com/2dust/v2rayN/releases/download/6.33/v2rayN-With-Core.zip">V2rayN</a></li>
+<li><a href="https://xz1.531131.xyz/https://github.com/fqw389/download/releases/download/download/Netch_1.9.7.7z">Netch</a></li>
+<li><a href="https://xz1.531131.xyz/https://github.com/fqw389/download/releases/download/download/WinXray_4.4.7z">WinXray</a></li>
+<li><a href="https://xz1.531131.xyz/https://github.com/fqw389/download/releases/download/download/SSTap-beta-setup-1.0.9.7.7z">SSTap</a></li>
+<li><a href="https://xz1.531131.xyz/https://github.com/MatsuriDayo/nekoray/releases/download/3.26/nekoray-3.26-2023-12-09-windows64.zip">Nekoray</a></li>
+</ul>
+<h3 id="4-Android-客户端"><a href="#4-Android-客户端" class="headerlink" title="4.Android 客户端"></a>4.Android 客户端</h3><ul>
+<li><a href="https://xz1.531131.xyz/https://github.com/fqw389/download/releases/download/download/cfa-2.5.12-premium-universal-release.apk">Clash for Android</a></li>
+<li><a href="https://xz1.531131.xyz/https://github.com/MetaCubeX/ClashMetaForAndroid/releases/download/v2.9.0/cmfa-2.9.0-meta-universal-release.apk">Clash Meta</a></li>
+<li><a href="https://xz1.531131.xyz/https://github.com/2dust/v2rayNG/releases/download/1.8.6/v2rayNG_1.8.6.apk">V2rayNG</a></li>
+</ul>
+<h3 id="5-Linux-客户端"><a href="#5-Linux-客户端" class="headerlink" title="5.Linux 客户端"></a>5.Linux 客户端</h3><ul>
+<li><a href="https://github.com/Elegycloud/clash-for-linux-backup">Clash for Linux</a></li>
+<li><a href="https://github.com/v2rayA/v2rayA/blob/main/README_zh.md">V2rayA</a></li>
+</ul>
+<h3 id="6-软路由"><a href="#6-软路由" class="headerlink" title="6.软路由"></a>6.软路由</h3><ul>
+<li><a href="https://github.com/vernesong/OpenClash">OpenClash</a></li>
+<li><a href="https://github.com/xiaorouji/openwrt-passwall/releases">PassWall</a></li>
+</ul>
+<hr>
+<blockquote>
+<h4 id="其他翻牆篇："><a href="#其他翻牆篇：" class="headerlink" title="其他翻牆篇："></a>其他翻牆篇：</h4><ul>
+<li><a href="https://maomeng.xyz/2021/06/01/chao-xiang-xi-de-fan-qiang-ke-pu-jiao-cheng/">超详细的翻墙科普教程</a></li>
+<li><a href="https://maomeng.xyz/2021/06/05/win-mac-ios-android-yi-jian-fan-qiang/">Win/MAC/ios/Android一键翻墙</a></li>
+<li><a href="https://maomeng.xyz/2021/06/11/ji-chang-tui-jian-chang-qi-geng-xin/">机场推荐🚀（长期更新）</a></li>
+</ul>
+</blockquote>
+]]></content>
+      <categories>
+        <category>翻墙</category>
+      </categories>
+      <tags>
+        <tag>翻墙</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>超详细的翻墙科普教程</title>
     <url>/2021/06/01/chao-xiang-xi-de-fan-qiang-ke-pu-jiao-cheng/</url>
     <content><![CDATA[<p>这是一份超详细的科学上网（翻牆）指南，只为学习国外先进科学技术，提升工作效率，方便查找资料使用。</p>
@@ -371,77 +442,6 @@
 <li><a href="https://maomeng.xyz/2021/06/01/chao-xiang-xi-de-fan-qiang-ke-pu-jiao-cheng/">超详细的翻墙科普教程</a></li>
 <li><a href="https://maomeng.xyz/2021/06/05/win-mac-ios-android-yi-jian-fan-qiang/">Win/MAC/ios/Android一键翻墙</a></li>
 <li><a href="https://maomeng.xyz/2021/06/08/dai-li-gong-ju-ke-hu-duan/">代理工具客户端</a></li>
-</ul>
-</blockquote>
-]]></content>
-      <categories>
-        <category>翻墙</category>
-      </categories>
-      <tags>
-        <tag>翻墙</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>代理工具客户端</title>
-    <url>/2021/06/08/dai-li-gong-ju-ke-hu-duan/</url>
-    <content><![CDATA[<p><strong>切勿翻牆从事违法行为，否则后果自负！</strong><br><strong>遵守中国互联网法，做一个遵纪守法的好公民。</strong><br><strong>声明：本人分享教程、软件，仅限于科学研究和学习使用。</strong>  </p>
-<p>通过SSR/V2ray/Clash越狱，其实很简单，总的来说分为两大步：</p>
-<pre><code>找到机场「提供的线路链接」
-用各平台代理客户端，「导入链接」，最后开启即可越狱
-</code></pre>
-<p>后期代理软件不用换，只需要更新线路就行！</p>
-<p>因此困难的不是软件的使用，而是找机场，下载好客户端后搭配这篇文章的机场使用：<a href="https://maomeng.xyz/2021/06/11/ji-chang-tui-jian-chang-qi-geng-xin/">点击前往</a></p>
-<h3 id="1-ios-客户端-国区不可下载-仅其他区可下载"><a href="#1-ios-客户端-国区不可下载-仅其他区可下载" class="headerlink" title="1.ios 客户端 (国区不可下载,仅其他区可下载)"></a>1.ios 客户端 (国区不可下载,仅其他区可下载)</h3><h4 id="小火箭共享账号"><a href="#小火箭共享账号" class="headerlink" title="小火箭共享账号"></a>小火箭共享账号</h4><p><font color="red"><b>共享账号请在AppStore登录，请勿在设置里登录！</b></font></p>
-<ul>
-<li><a href="https://idshare001.me/goso.html">小火箭账号分享站1</a></li>
-<li><a href="https://app.idshare.xyz/">小火箭账号分享站2</a></li>
-<li><a href="https://id.fcjs.xyz/">小火箭账号分享站3</a></li>
-<li><a href="https://zcjd.top/s/">小火箭账号分享站4</a></li>
-<li><a href="https://ccbaohe.com/appleID/">小火箭账号分享站5</a></li>
-<li><a href="https://free.iosapp.icu/">小火箭账号分享站6</a></li>
-</ul>
-<p><strong>以下软件除<code>国区App Store</code>外均可下载</strong></p>
-<ul>
-<li>Surge</li>
-<li>Quantumult</li>
-<li>Quantumult X</li>
-<li>Shadowrocket</li>
-<li>Loon</li>
-<li>Sing-box</li>
-<li>Stash</li>
-</ul>
-<h3 id="2-macOS-客户端"><a href="#2-macOS-客户端" class="headerlink" title="2.macOS 客户端"></a>2.macOS 客户端</h3><ul>
-<li><a href="https://xz1.531131.xyz/https://github.com/fqw389/download/releases/download/download/ClashX_1.118.0.dmg">ClashX</a></li>
-<li><a href="https://xz1.531131.xyz/https://github.com/fqw389/download/releases/download/download/V2rayU_4.1.0.dmg">V2rayU</a></li>
-</ul>
-<h3 id="3-Windows-客户端"><a href="#3-Windows-客户端" class="headerlink" title="3.Windows 客户端"></a>3.Windows 客户端</h3><ul>
-<li><a href="https://xz1.531131.xyz/https://github.com/fqw389/download/releases/download/download/Clash_For_Windows.-0.20.39.7z" title="Clash for Windows">Clash for Windows</a> </li>
-<li><a href="https://xz1.531131.xyz/https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v1.4.10/Clash.Verge_1.4.10_x64_portable.zip">Clash Verge Rev</a></li>
-<li><a href="https://xz1.531131.xyz/https://github.com/2dust/v2rayN/releases/download/6.33/v2rayN-With-Core.zip">V2rayN</a></li>
-<li><a href="https://xz1.531131.xyz/https://github.com/fqw389/download/releases/download/download/Netch_1.9.7.7z">Netch</a></li>
-<li><a href="https://xz1.531131.xyz/https://github.com/fqw389/download/releases/download/download/WinXray_4.4.7z">WinXray</a></li>
-<li><a href="https://xz1.531131.xyz/https://github.com/fqw389/download/releases/download/download/SSTap-beta-setup-1.0.9.7.7z">SSTap</a></li>
-<li><a href="https://xz1.531131.xyz/https://github.com/MatsuriDayo/nekoray/releases/download/3.26/nekoray-3.26-2023-12-09-windows64.zip">Nekoray</a></li>
-</ul>
-<h3 id="4-Android-客户端"><a href="#4-Android-客户端" class="headerlink" title="4.Android 客户端"></a>4.Android 客户端</h3><ul>
-<li><a href="https://xz1.531131.xyz/https://github.com/fqw389/download/releases/download/download/cfa-2.5.12-premium-universal-release.apk">Clash for Android</a></li>
-<li><a href="https://xz1.531131.xyz/https://github.com/MetaCubeX/ClashMetaForAndroid/releases/download/v2.9.0/cmfa-2.9.0-meta-universal-release.apk">Clash Meta</a></li>
-<li><a href="https://xz1.531131.xyz/https://github.com/2dust/v2rayNG/releases/download/1.8.6/v2rayNG_1.8.6.apk">V2rayNG</a></li>
-</ul>
-<h3 id="5-Linux-客户端"><a href="#5-Linux-客户端" class="headerlink" title="5.Linux 客户端"></a>5.Linux 客户端</h3><ul>
-<li><a href="https://github.com/Elegycloud/clash-for-linux-backup">Clash for Linux</a></li>
-<li><a href="https://github.com/v2rayA/v2rayA/blob/main/README_zh.md">V2rayA</a></li>
-</ul>
-<h3 id="6-软路由"><a href="#6-软路由" class="headerlink" title="6.软路由"></a>6.软路由</h3><ul>
-<li><a href="https://github.com/vernesong/OpenClash">OpenClash</a></li>
-<li><a href="https://github.com/xiaorouji/openwrt-passwall/releases">PassWall</a></li>
-</ul>
-<hr>
-<blockquote>
-<h4 id="其他翻牆篇："><a href="#其他翻牆篇：" class="headerlink" title="其他翻牆篇："></a>其他翻牆篇：</h4><ul>
-<li><a href="https://maomeng.xyz/2021/06/01/chao-xiang-xi-de-fan-qiang-ke-pu-jiao-cheng/">超详细的翻墙科普教程</a></li>
-<li><a href="https://maomeng.xyz/2021/06/05/win-mac-ios-android-yi-jian-fan-qiang/">Win/MAC/ios/Android一键翻墙</a></li>
-<li><a href="https://maomeng.xyz/2021/06/11/ji-chang-tui-jian-chang-qi-geng-xin/">机场推荐🚀（长期更新）</a></li>
 </ul>
 </blockquote>
 ]]></content>
