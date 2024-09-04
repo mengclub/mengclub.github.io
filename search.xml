@@ -65,144 +65,6 @@
       </tags>
   </entry>
   <entry>
-    <title>代理工具客户端</title>
-    <url>/2021/06/08/dai-li-gong-ju-ke-hu-duan/</url>
-    <content><![CDATA[<p><strong>切勿翻牆从事违法行为，否则后果自负！</strong><br><strong>遵守中国互联网法，做一个遵纪守法的好公民。</strong><br><strong>声明：本人分享教程、软件，仅限于科学研究和学习使用。</strong>  </p>
-<p>通过SSR/V2ray/Clash越狱，其实很简单，总的来说分为两大步：</p>
-<pre><code>找到机场「提供的线路链接」
-用各平台代理客户端，「导入链接」，最后开启即可越狱
-</code></pre>
-<p>后期代理软件不用换，只需要更新线路就行！</p>
-<p>因此困难的不是软件的使用，而是找机场，下载好客户端后搭配这篇文章的机场使用：<a href="https://maomeng.xyz/2021/06/11/ji-chang-tui-jian-chang-qi-geng-xin/">点击前往</a></p>
-<h3 id="1-ios-客户端-国区不可下载-仅其他区可下载"><a href="#1-ios-客户端-国区不可下载-仅其他区可下载" class="headerlink" title="1.ios 客户端 (国区不可下载,仅其他区可下载)"></a>1.ios 客户端 (国区不可下载,仅其他区可下载)</h3><h4 id="小火箭共享账号"><a href="#小火箭共享账号" class="headerlink" title="小火箭共享账号"></a>小火箭共享账号</h4><p><font color="red"><b>共享账号请在AppStore登录，请勿在设置里登录！</b></font></p>
-<ul>
-<li><a href="https://idshare001.me/goso.html">小火箭账号分享站1</a></li>
-<li><a href="https://app.idshare.xyz/">小火箭账号分享站2</a></li>
-<li><a href="https://id.fcjs.xyz/">小火箭账号分享站3</a></li>
-<li><a href="https://zcjd.top/s/">小火箭账号分享站4</a></li>
-<li><a href="https://ccbaohe.com/appleID/">小火箭账号分享站5</a></li>
-<li><a href="https://free.iosapp.icu/">小火箭账号分享站6</a></li>
-</ul>
-<p><strong>以下软件除<code>国区App Store</code>外均可下载</strong></p>
-<ul>
-<li>Surge</li>
-<li>Quantumult</li>
-<li>Quantumult X</li>
-<li>Shadowrocket</li>
-<li>Loon</li>
-<li>Sing-box</li>
-<li>Stash</li>
-</ul>
-<h3 id="2-macOS-客户端"><a href="#2-macOS-客户端" class="headerlink" title="2.macOS 客户端"></a>2.macOS 客户端</h3><ul>
-<li><a href="https://xz1.531131.xyz/https://github.com/fqw389/download/releases/download/download/ClashX_1.118.0.dmg">ClashX</a></li>
-<li><a href="https://xz1.531131.xyz/https://github.com/fqw389/download/releases/download/download/V2rayU_4.1.0.dmg">V2rayU</a></li>
-</ul>
-<h3 id="3-Windows-客户端"><a href="#3-Windows-客户端" class="headerlink" title="3.Windows 客户端"></a>3.Windows 客户端</h3><ul>
-<li><a href="https://xz1.531131.xyz/https://github.com/fqw389/download/releases/download/download/Clash_For_Windows.-0.20.39.7z" title="Clash for Windows">Clash for Windows</a> </li>
-<li><a href="https://xz1.531131.xyz/https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v1.4.10/Clash.Verge_1.4.10_x64_portable.zip">Clash Verge Rev</a></li>
-<li><a href="https://xz1.531131.xyz/https://github.com/2dust/v2rayN/releases/download/6.33/v2rayN-With-Core.zip">V2rayN</a></li>
-<li><a href="https://xz1.531131.xyz/https://github.com/fqw389/download/releases/download/download/Netch_1.9.7.7z">Netch</a></li>
-<li><a href="https://xz1.531131.xyz/https://github.com/fqw389/download/releases/download/download/WinXray_4.4.7z">WinXray</a></li>
-<li><a href="https://xz1.531131.xyz/https://github.com/fqw389/download/releases/download/download/SSTap-beta-setup-1.0.9.7.7z">SSTap</a></li>
-<li><a href="https://xz1.531131.xyz/https://github.com/MatsuriDayo/nekoray/releases/download/3.26/nekoray-3.26-2023-12-09-windows64.zip">Nekoray</a></li>
-</ul>
-<h3 id="4-Android-客户端"><a href="#4-Android-客户端" class="headerlink" title="4.Android 客户端"></a>4.Android 客户端</h3><ul>
-<li><a href="https://xz1.531131.xyz/https://github.com/fqw389/download/releases/download/download/cfa-2.5.12-premium-universal-release.apk">Clash for Android</a></li>
-<li><a href="https://xz1.531131.xyz/https://github.com/MetaCubeX/ClashMetaForAndroid/releases/download/v2.9.0/cmfa-2.9.0-meta-universal-release.apk">Clash Meta</a></li>
-<li><a href="https://xz1.531131.xyz/https://github.com/2dust/v2rayNG/releases/download/1.8.6/v2rayNG_1.8.6.apk">V2rayNG</a></li>
-</ul>
-<h3 id="5-Linux-客户端"><a href="#5-Linux-客户端" class="headerlink" title="5.Linux 客户端"></a>5.Linux 客户端</h3><ul>
-<li><a href="https://github.com/Elegycloud/clash-for-linux-backup">Clash for Linux</a></li>
-<li><a href="https://github.com/v2rayA/v2rayA/blob/main/README_zh.md">V2rayA</a></li>
-</ul>
-<h3 id="6-软路由"><a href="#6-软路由" class="headerlink" title="6.软路由"></a>6.软路由</h3><ul>
-<li><a href="https://github.com/vernesong/OpenClash">OpenClash</a></li>
-<li><a href="https://github.com/xiaorouji/openwrt-passwall/releases">PassWall</a></li>
-</ul>
-<hr>
-<blockquote>
-<h4 id="其他翻牆篇："><a href="#其他翻牆篇：" class="headerlink" title="其他翻牆篇："></a>其他翻牆篇：</h4><ul>
-<li><a href="https://maomeng.xyz/2021/06/01/chao-xiang-xi-de-fan-qiang-ke-pu-jiao-cheng/">超详细的翻墙科普教程</a></li>
-<li><a href="https://maomeng.xyz/2021/06/05/win-mac-ios-android-yi-jian-fan-qiang/">Win/MAC/ios/Android一键翻墙</a></li>
-<li><a href="https://maomeng.xyz/2021/06/11/ji-chang-tui-jian-chang-qi-geng-xin/">机场推荐🚀（长期更新）</a></li>
-</ul>
-</blockquote>
-]]></content>
-      <categories>
-        <category>翻墙</category>
-      </categories>
-      <tags>
-        <tag>翻墙</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>超详细的翻墙科普教程</title>
-    <url>/2021/06/01/chao-xiang-xi-de-fan-qiang-ke-pu-jiao-cheng/</url>
-    <content><![CDATA[<p>这是一份超详细的科学上网（翻牆）指南，只为学习国外先进科学技术，提升工作效率，方便查找资料使用。</p>
-<p>网络不是法外之地，我们的目的是学习国外先进科学技术，切莫在网络发表不当言论，更不可做任何危害民族和国家利益的事，否则后果自负。翻牆需谨慎，且行且珍惜。</p>
-<p><strong>切勿翻牆从事违法行为，否则后果自负！</strong><br><strong>遵守中国互联网法，做一个遵纪守法的好公民。</strong><br><strong>声明：本人分享教程、软件，仅限于科学研究和学习使用。</strong>  </p>
-<p><a href="https://www.ayay.one/?mid=1105"><font color="#E44D29" size="5px"><b>[推荐] </b></font><b><font color="#00cb44" size="5px">安易加速器⚡️ 注册即免费获得一年体验会员，告别失联困扰！</font></b></a></p>
-<h2 id="科普一下✈"><a href="#科普一下✈" class="headerlink" title="科普一下✈"></a>科普一下✈</h2><h3 id="1-什么是长城防火墙？🕵️‍"><a href="#1-什么是长城防火墙？🕵️‍" class="headerlink" title="1. 什么是长城防火墙？🕵️‍"></a>1. 什么是长城防火墙？🕵️‍</h3><p>长城防火墙的英文全称叫：The Great Firewall，也就是我们俗称的“墙”。长城防火墙的存在是为了规范和监管中国互联网，它通过相关硬件和软件防火墙组成的一道过滤网，用于保护中国大陆的网络环境。它监管着所有的跨境互联网流量，并阻止中国大陆网民访问一些外部Web服务。这就是所谓的“长城防火墙”。</p>
-<h3 id="2-关于科学上网🌍"><a href="#2-关于科学上网🌍" class="headerlink" title="2. 关于科学上网🌍"></a>2. 关于科学上网🌍</h3><p><a href="https://zh.wikipedia.org/wiki/%E7%AA%81%E7%A0%B4%E7%BD%91%E7%BB%9C%E5%AE%A1%E6%9F%A5">科学上网</a>（也叫翻牆），所谓的“科学上网”，也就是通过一些技术手段来绕过中国长城防火墙的监管和限制，去访问一些国外的网站和服务。而想要绕过中国长城防火墙的监管和限制，就必须要使用“科学上网工具”或者“翻牆软件”。</p>
-<p>翻牆有多重要，我想无需过多解释，它决定着我们很多人的网络生活质量，Gmail的邮件回不回得了，能不能Google某段程序怎么写，看不看得到特朗普发的最新Twitter，能不能在社交媒体上跟踪自己感兴趣的群组，国外的公开课视频能不能看，Udemy上的课程买下来能否看得流畅，Netflix、HBO上的新剧能不能追，都取决于我们能否能访问外网。</p>
-<p>我想先提醒读者：<strong>没有完美的翻牆软件，不要这样期望。</strong></p>
-<h3 id="3-翻牆原理和方式🌎"><a href="#3-翻牆原理和方式🌎" class="headerlink" title="3. 翻牆原理和方式🌎"></a>3. 翻牆原理和方式🌎</h3><p><strong>科学上网的原理：</strong> 通过 VPN、ss、ssr、v2ray 、代理等对上网流量、数据加密，以此躲避 GFW 长城防火墙检测，实现自由上网，也被用于数据传输安全、网络匿名、隐私保护等。</p>
-<p><strong>适用：</strong> Windows、Linux、Mac、Android、IOS、路由器、TV 等全平台</p>
-<p><strong>目前翻牆方式介绍</strong><br>1、<code>VPN</code></p>
-<p>VPN 的流量特征过于明显容易被 GFW 防火墙识别，且价格昂贵，现在已不提倡使用。</p>
-<p>2、<code>SS、SSR、V2ray 机场</code></p>
-<p>SS、SSR、V2ray 是什么？</p>
-<p>三个都是目前科学上网比较主流的加密协议,通过加密混淆伪装成正常流量，让 GFW 防火墙识别更困难。</p>
-<p>3、<code>搭建自己的科学上网服务器</code></p>
-<p>需要一定动手能力，只要你有网络，几分钟便能搭建一台可以科学上网的代理服务器，科学上网的终极姿势。</p>
-<p>上文的机场实际上就是替你完成了搭建这一步，直接向你提供搭建好的节点供你使用</p>
-<p>此方案理论永久可行，尤其是在出现特殊情况，比如：封锁严重，大面积科学上网失效的时候作为应急方案。IP 被封更换 IP 即可，适合喜欢折腾的同学。</p>
-<p>小白建议还是用机场，省事省心</p>
-<p>4、<code>代理（Proxy）类</code></p>
-<p>比如蓝灯（基于SOCKS5加密协议）,在代理类的“科学上网”工具中，最具代表性的就是：蓝灯。在中国互联网审查还没有非常严峻的前些年，蓝灯是大部分人翻牆的首选，它也是最受欢迎的翻牆工具。但随着近几年互联网审查越来越严，蓝灯也慢慢失去了它“翻牆首选”的称号，经常掉线。尤其是在每年比较敏感的几个时间段，都会出现无法翻牆或者频繁掉线的情况。</p>
-<h3 id="4-机场是什么？🚀"><a href="#4-机场是什么？🚀" class="headerlink" title="4. 机场是什么？🚀"></a>4. 机场是什么？🚀</h3><p>通常由第三方大厂承担搭建，直接向用户提供 ss、ssr、v2ray 节点服务，免去个人搭建流程，更快捷，线路优化也更好。<br>机场是老司机和小白皆可的一种方案，省事省心，稳定性和速度兼顾。 </p>
-<h3 id="5-翻牆后能做什么？🕵️‍♂️"><a href="#5-翻牆后能做什么？🕵️‍♂️" class="headerlink" title="5. 翻牆后能做什么？🕵️‍♂️"></a>5. 翻牆后能做什么？🕵️‍♂️</h3><p><code>·外网资源推荐·</code></p>
-<h4 id="常用网站"><a href="#常用网站" class="headerlink" title="常用网站"></a>常用网站</h4><table>
-<thead>
-<tr>
-<th><a href="https://www.google.com/">Google</a></th>
-<th><a href="https://www.gmail.com/">Gmail</a></th>
-<th><a href="https://www.facebook.com/">Facebook</a></th>
-</tr>
-</thead>
-<tbody><tr>
-<td><a href="https://www.twitter.com/">Twitter</a></td>
-<td><a href="https://www.youtube.com/">YouTube</a></td>
-<td><a href="https://www.instagram.com/">Instagram</a></td>
-</tr>
-</tbody></table>
-<h3 id="6-中国使用VPN的常见问题"><a href="#6-中国使用VPN的常见问题" class="headerlink" title="6. 中国使用VPN的常见问题"></a>6. 中国使用VPN的常见问题</h3><p><strong>中国为什么封杀VPN？</strong></p>
-<p>众所周知，中国大陆的防火墙（GFW）屏蔽了大量的海外网站，于是带来了“翻牆”的需要。大量网民使用VPN来绕过GFW的封锁、访问墙外网站。为了阻止国内网民使用VPN翻牆，中国自然会封杀VPN。</p>
-<p><strong>翻牆看新闻会被抓吗？</strong></p>
-<p>近年来中国出现了几起网民因为翻牆而被抓的事件，但根据观察，中国重点打击的是私自出售VPN的行为，而普通人翻牆目前并不需要过于担心。其实中国每天都有不计其数的人翻牆看新闻和从事正常的跨国工作等，这些和政治无关的翻牆行为是管不过来的。所以，“对于“翻牆看新闻会被抓吗？” 这样的问题，大家只有翻牆是保持低调，并不需要过于担心。</p>
-<p><strong>个人使用VPN违法吗？</strong></p>
-<p>近年来中国出现了几起因为翻牆被抓的事件，现在可以明确的是：在中国私自出售VPN服务是违法的，但至于个人使用VPN违法与否，现在并没有明确的答案。事实上，中国每天都有不计其数的人因为个人或工作需要来使用VPN翻牆，这其中不仅包括翻牆看新闻、翻牆看油管，也包括外贸往来，留学生和学校联系等等。如果这些个人使用VPN都算违法而被法律制裁，那么估计这么多违法的人也是处理不过来的。总之，对于“个人使用VPN违法吗？”这样的问题，大家目前不需要过于担心，但使用VPN应尽量保持低调。</p>
-<p><strong>卖VPN违法吗？</strong></p>
-<p>根据工信部的规定：“未经电信主管部门批准，不得自行建立或租用专线（含虚拟专用网络VPN）等其他信道开展跨境经营活动。”，所以，除非经过有关部门允许，在中国大陆卖VPN是违法的。</p>
-<p><strong>用VPN会被发现吗？</strong></p>
-<p>网络运营商是可以随时监控网民的互联网使用情况的。理论上说，使用VPN是可以被运营商发现的（虽然通过VPN访问了哪些网站未必能被发现）。目前有些VPN加入了伪装、混淆功能来避免VPN流量被发现，但GFW也在不断升级，所以不要以为用VPN或其它翻牆梯子就不会被发现。</p>
-<hr>
-<blockquote>
-<h4 id="其他翻牆篇："><a href="#其他翻牆篇：" class="headerlink" title="其他翻牆篇："></a>其他翻牆篇：</h4><ul>
-<li><a href="https://maomeng.xyz/2021/06/05/win-mac-ios-android-yi-jian-fan-qiang/">Win/MAC/ios/Android一键翻墙</a></li>
-<li><a href="https://maomeng.xyz/2021/06/08/dai-li-gong-ju-ke-hu-duan/">代理工具客户端</a></li>
-<li><a href="https://maomeng.xyz/2021/06/11/ji-chang-tui-jian-chang-qi-geng-xin/">机场推荐🚀（长期更新）</a></li>
-</ul>
-</blockquote>
-]]></content>
-      <categories>
-        <category>翻墙</category>
-      </categories>
-      <tags>
-        <tag>翻墙</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>机场推荐🚀（长期更新）</title>
     <url>/2021/06/11/ji-chang-tui-jian-chang-qi-geng-xin/</url>
     <content><![CDATA[<p><strong>切勿翻牆从事违法行为，否则后果自负！</strong><br><strong>遵守中国互联网法，做一个遵纪守法的好公民。</strong><br><strong>声明：本人分享教程、软件，仅限于科学研究和学习使用</strong>  </p>
@@ -234,20 +96,25 @@
 <h2 id="最新机场推荐："><a href="#最新机场推荐：" class="headerlink" title="最新机场推荐："></a><font color="#ff0000" size="6px">最新机场推荐：</font></h2><p><a href="https://f.kepayun.xyz/#/register?code=rQB8whe9"><font color="#E44D29" size="5px"><b>[推荐] </b></font><b><font color="#5A83DB" size="5px">Fastlink🚀机场 - 4年老牌海外机场，使用 AnyCast 协议，给你高速网络，保护你的安全隐私，节点速度高达5Gbps，无视高峰期、超级稳定无卡顿。</font></b></a></p>
 <p><a href="https://maomeng01.youbbv.com/auth/register?code=7elG"><font color="#E44D29" size="5px"><b>[推荐] </b></font><b><font color="#FB4D3D" size="5px">SpeedCAT⚡️闪电猫 - 最推荐老牌机场，提供高级机场全 IPLC 专线，没有倍率、没有套路，主打快速稳定，拥有超过120+节点。解锁多种流媒体，支持Chatgpt，自带云服务负载组，实行网络安全，安心科学上网。</font></b></a></p>
 <p><a href="https://dash.cute-cloud.de/auth/register?code=oB7k"><font color="#E44D29" size="5px"><b>[推荐] </b></font><b><font color="#00CCFF" size="5px">最萌の云 ☁️年度最佳云服务商，全球数百个万兆服务器负载加速，全天稳定8K。有0.1倍率公益节点和专用客户端；部分套餐提供流媒体账户共享；解锁多种流媒体，并有IPLC等顶级专线！限时免费尝鲜！</font></b></a></p>
-<h3 id="FastLink（推荐）"><a href="#FastLink（推荐）" class="headerlink" title="FastLink（推荐）"></a>FastLink（推荐）</h3><p><code>更新于2024年9月4日</code></p>
+<h3 id="FastLink（推荐）"><a href="#FastLink（推荐）" class="headerlink" title="FastLink（推荐）"></a>FastLink（推荐）</h3><p><code>更新于2024年9月5日</code></p>
 <p>使用 AnyCast 协议，给你高速网络，保护安全隐私，<br>节点速度高达5Gbps，无视高峰期、超级稳定无卡顿。</p>
 <p>官网：<a href="https://f.kepayun.xyz/#/register?code=rQB8whe9">点我进入</a></p>
 <p>价格：<a href="https://img.xwyue.com/i/2023/09/02/64f2cd378accd.png">点我查看</a></p>
 <p>优惠码：<code>MMFASTLINK</code></p>
-<h3 id="最萌の云（推荐）"><a href="#最萌の云（推荐）" class="headerlink" title="最萌の云（推荐）"></a>最萌の云（推荐）</h3><p><code>更新于2024年9月4日</code></p>
+<h3 id="最萌の云（推荐）"><a href="#最萌の云（推荐）" class="headerlink" title="最萌の云（推荐）"></a>最萌の云（推荐）</h3><p><code>更新于2024年9月5日</code></p>
 <p>无需邮箱验证，稳定老牌机场，有体验套餐，签到暴击。<br>原生动态IP，解锁多数访问限制，是最先提供对ChatGpt稳定解锁的商家。<br>国内白名单区域一样可用，速度和稳定性极佳，实测全天Youtube可跑8K。<br>有超低倍率节点/专用加速器/各种共享账户/负载均衡/可定制解锁内容。  </p>
 <p>官网：<a href="https://dash.cute-cloud.de/auth/register?code=oB7k">点我进入</a></p>
 <p>价格：<a href="https://img.xwyue.com/i/2023/09/02/64f2cd00a81b8.png">点我查看</a></p>
-<h3 id="Kepa云（推荐）"><a href="#Kepa云（推荐）" class="headerlink" title="Kepa云（推荐）"></a>Kepa云（推荐）</h3><p><code>更新于2024年9月4日</code></p>
+<h3 id="Kepa云（推荐）"><a href="#Kepa云（推荐）" class="headerlink" title="Kepa云（推荐）"></a>Kepa云（推荐）</h3><p><code>更新于2024年9月5日</code></p>
 <p>无需邮箱验证，国内中转高速节点，<br>流媒体ChatGPT解锁，YouTube全天4K无压力！<br>购买套餐送共享小火箭账号，无节点倍率套路！</p>
 <p>官网：<a href="https://f.kepayun.xyz/#/register?code=rQB8whe9">点我进入</a></p>
 <p>价格：<a href="https://s1.boluo.link/imgs/2024/01/12/d297701515be093d.png">点我查看</a></p>
 <p>9折优惠码：<code>happy</code></p>
+<h3 id="SkyHope"><a href="#SkyHope" class="headerlink" title="SkyHope"></a>SkyHope</h3><p><code>更新于2024年9月5日</code></p>
+<p><strong>需邮箱验证</strong>，新用户注册后可前往商店使用<code>优惠码</code>0元购买30天120G流量<code>轻量套餐【120G】</code>套餐。</p>
+<p>官网：<a href="https://cloud.skyhope.xyz/#/register?code=t5MRkQ8i">点我进入</a></p>
+<p>价格：<a href="https://pic2.ziyuan.wang/user/menthan/2024/09/20240904212031_6befbb8cfc2cd.png">点我查看</a></p>
+<p>优惠码：<code>jczn.org</code></p>
 <h3 id="马铃薯"><a href="#马铃薯" class="headerlink" title="马铃薯"></a>马铃薯</h3><p><code>更新于2024年9月4日</code></p>
 <p><strong>需邮箱验证</strong>，新用户注册后可前往商店0元购买3年50G流量<code>公益套餐</code>套餐。</p>
 <p>官网：<a href="https://mlshu.com/#/register?code=y6eDfVQP">点我进入</a></p>
@@ -465,6 +332,144 @@
 <li><a href="https://maomeng.xyz/2021/06/01/chao-xiang-xi-de-fan-qiang-ke-pu-jiao-cheng/">超详细的翻墙科普教程</a></li>
 <li><a href="https://maomeng.xyz/2021/06/05/win-mac-ios-android-yi-jian-fan-qiang/">Win/MAC/ios/Android一键翻墙</a></li>
 <li><a href="https://maomeng.xyz/2021/06/08/dai-li-gong-ju-ke-hu-duan/">代理工具客户端</a></li>
+</ul>
+</blockquote>
+]]></content>
+      <categories>
+        <category>翻墙</category>
+      </categories>
+      <tags>
+        <tag>翻墙</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>代理工具客户端</title>
+    <url>/2021/06/08/dai-li-gong-ju-ke-hu-duan/</url>
+    <content><![CDATA[<p><strong>切勿翻牆从事违法行为，否则后果自负！</strong><br><strong>遵守中国互联网法，做一个遵纪守法的好公民。</strong><br><strong>声明：本人分享教程、软件，仅限于科学研究和学习使用。</strong>  </p>
+<p>通过SSR/V2ray/Clash越狱，其实很简单，总的来说分为两大步：</p>
+<pre><code>找到机场「提供的线路链接」
+用各平台代理客户端，「导入链接」，最后开启即可越狱
+</code></pre>
+<p>后期代理软件不用换，只需要更新线路就行！</p>
+<p>因此困难的不是软件的使用，而是找机场，下载好客户端后搭配这篇文章的机场使用：<a href="https://maomeng.xyz/2021/06/11/ji-chang-tui-jian-chang-qi-geng-xin/">点击前往</a></p>
+<h3 id="1-ios-客户端-国区不可下载-仅其他区可下载"><a href="#1-ios-客户端-国区不可下载-仅其他区可下载" class="headerlink" title="1.ios 客户端 (国区不可下载,仅其他区可下载)"></a>1.ios 客户端 (国区不可下载,仅其他区可下载)</h3><h4 id="小火箭共享账号"><a href="#小火箭共享账号" class="headerlink" title="小火箭共享账号"></a>小火箭共享账号</h4><p><font color="red"><b>共享账号请在AppStore登录，请勿在设置里登录！</b></font></p>
+<ul>
+<li><a href="https://idshare001.me/goso.html">小火箭账号分享站1</a></li>
+<li><a href="https://app.idshare.xyz/">小火箭账号分享站2</a></li>
+<li><a href="https://id.fcjs.xyz/">小火箭账号分享站3</a></li>
+<li><a href="https://zcjd.top/s/">小火箭账号分享站4</a></li>
+<li><a href="https://ccbaohe.com/appleID/">小火箭账号分享站5</a></li>
+<li><a href="https://free.iosapp.icu/">小火箭账号分享站6</a></li>
+</ul>
+<p><strong>以下软件除<code>国区App Store</code>外均可下载</strong></p>
+<ul>
+<li>Surge</li>
+<li>Quantumult</li>
+<li>Quantumult X</li>
+<li>Shadowrocket</li>
+<li>Loon</li>
+<li>Sing-box</li>
+<li>Stash</li>
+</ul>
+<h3 id="2-macOS-客户端"><a href="#2-macOS-客户端" class="headerlink" title="2.macOS 客户端"></a>2.macOS 客户端</h3><ul>
+<li><a href="https://xz1.531131.xyz/https://github.com/fqw389/download/releases/download/download/ClashX_1.118.0.dmg">ClashX</a></li>
+<li><a href="https://xz1.531131.xyz/https://github.com/fqw389/download/releases/download/download/V2rayU_4.1.0.dmg">V2rayU</a></li>
+</ul>
+<h3 id="3-Windows-客户端"><a href="#3-Windows-客户端" class="headerlink" title="3.Windows 客户端"></a>3.Windows 客户端</h3><ul>
+<li><a href="https://xz1.531131.xyz/https://github.com/fqw389/download/releases/download/download/Clash_For_Windows.-0.20.39.7z" title="Clash for Windows">Clash for Windows</a> </li>
+<li><a href="https://xz1.531131.xyz/https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v1.4.10/Clash.Verge_1.4.10_x64_portable.zip">Clash Verge Rev</a></li>
+<li><a href="https://xz1.531131.xyz/https://github.com/2dust/v2rayN/releases/download/6.33/v2rayN-With-Core.zip">V2rayN</a></li>
+<li><a href="https://xz1.531131.xyz/https://github.com/fqw389/download/releases/download/download/Netch_1.9.7.7z">Netch</a></li>
+<li><a href="https://xz1.531131.xyz/https://github.com/fqw389/download/releases/download/download/WinXray_4.4.7z">WinXray</a></li>
+<li><a href="https://xz1.531131.xyz/https://github.com/fqw389/download/releases/download/download/SSTap-beta-setup-1.0.9.7.7z">SSTap</a></li>
+<li><a href="https://xz1.531131.xyz/https://github.com/MatsuriDayo/nekoray/releases/download/3.26/nekoray-3.26-2023-12-09-windows64.zip">Nekoray</a></li>
+</ul>
+<h3 id="4-Android-客户端"><a href="#4-Android-客户端" class="headerlink" title="4.Android 客户端"></a>4.Android 客户端</h3><ul>
+<li><a href="https://xz1.531131.xyz/https://github.com/fqw389/download/releases/download/download/cfa-2.5.12-premium-universal-release.apk">Clash for Android</a></li>
+<li><a href="https://xz1.531131.xyz/https://github.com/MetaCubeX/ClashMetaForAndroid/releases/download/v2.9.0/cmfa-2.9.0-meta-universal-release.apk">Clash Meta</a></li>
+<li><a href="https://xz1.531131.xyz/https://github.com/2dust/v2rayNG/releases/download/1.8.6/v2rayNG_1.8.6.apk">V2rayNG</a></li>
+</ul>
+<h3 id="5-Linux-客户端"><a href="#5-Linux-客户端" class="headerlink" title="5.Linux 客户端"></a>5.Linux 客户端</h3><ul>
+<li><a href="https://github.com/Elegycloud/clash-for-linux-backup">Clash for Linux</a></li>
+<li><a href="https://github.com/v2rayA/v2rayA/blob/main/README_zh.md">V2rayA</a></li>
+</ul>
+<h3 id="6-软路由"><a href="#6-软路由" class="headerlink" title="6.软路由"></a>6.软路由</h3><ul>
+<li><a href="https://github.com/vernesong/OpenClash">OpenClash</a></li>
+<li><a href="https://github.com/xiaorouji/openwrt-passwall/releases">PassWall</a></li>
+</ul>
+<hr>
+<blockquote>
+<h4 id="其他翻牆篇："><a href="#其他翻牆篇：" class="headerlink" title="其他翻牆篇："></a>其他翻牆篇：</h4><ul>
+<li><a href="https://maomeng.xyz/2021/06/01/chao-xiang-xi-de-fan-qiang-ke-pu-jiao-cheng/">超详细的翻墙科普教程</a></li>
+<li><a href="https://maomeng.xyz/2021/06/05/win-mac-ios-android-yi-jian-fan-qiang/">Win/MAC/ios/Android一键翻墙</a></li>
+<li><a href="https://maomeng.xyz/2021/06/11/ji-chang-tui-jian-chang-qi-geng-xin/">机场推荐🚀（长期更新）</a></li>
+</ul>
+</blockquote>
+]]></content>
+      <categories>
+        <category>翻墙</category>
+      </categories>
+      <tags>
+        <tag>翻墙</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>超详细的翻墙科普教程</title>
+    <url>/2021/06/01/chao-xiang-xi-de-fan-qiang-ke-pu-jiao-cheng/</url>
+    <content><![CDATA[<p>这是一份超详细的科学上网（翻牆）指南，只为学习国外先进科学技术，提升工作效率，方便查找资料使用。</p>
+<p>网络不是法外之地，我们的目的是学习国外先进科学技术，切莫在网络发表不当言论，更不可做任何危害民族和国家利益的事，否则后果自负。翻牆需谨慎，且行且珍惜。</p>
+<p><strong>切勿翻牆从事违法行为，否则后果自负！</strong><br><strong>遵守中国互联网法，做一个遵纪守法的好公民。</strong><br><strong>声明：本人分享教程、软件，仅限于科学研究和学习使用。</strong>  </p>
+<p><a href="https://www.ayay.one/?mid=1105"><font color="#E44D29" size="5px"><b>[推荐] </b></font><b><font color="#00cb44" size="5px">安易加速器⚡️ 注册即免费获得一年体验会员，告别失联困扰！</font></b></a></p>
+<h2 id="科普一下✈"><a href="#科普一下✈" class="headerlink" title="科普一下✈"></a>科普一下✈</h2><h3 id="1-什么是长城防火墙？🕵️‍"><a href="#1-什么是长城防火墙？🕵️‍" class="headerlink" title="1. 什么是长城防火墙？🕵️‍"></a>1. 什么是长城防火墙？🕵️‍</h3><p>长城防火墙的英文全称叫：The Great Firewall，也就是我们俗称的“墙”。长城防火墙的存在是为了规范和监管中国互联网，它通过相关硬件和软件防火墙组成的一道过滤网，用于保护中国大陆的网络环境。它监管着所有的跨境互联网流量，并阻止中国大陆网民访问一些外部Web服务。这就是所谓的“长城防火墙”。</p>
+<h3 id="2-关于科学上网🌍"><a href="#2-关于科学上网🌍" class="headerlink" title="2. 关于科学上网🌍"></a>2. 关于科学上网🌍</h3><p><a href="https://zh.wikipedia.org/wiki/%E7%AA%81%E7%A0%B4%E7%BD%91%E7%BB%9C%E5%AE%A1%E6%9F%A5">科学上网</a>（也叫翻牆），所谓的“科学上网”，也就是通过一些技术手段来绕过中国长城防火墙的监管和限制，去访问一些国外的网站和服务。而想要绕过中国长城防火墙的监管和限制，就必须要使用“科学上网工具”或者“翻牆软件”。</p>
+<p>翻牆有多重要，我想无需过多解释，它决定着我们很多人的网络生活质量，Gmail的邮件回不回得了，能不能Google某段程序怎么写，看不看得到特朗普发的最新Twitter，能不能在社交媒体上跟踪自己感兴趣的群组，国外的公开课视频能不能看，Udemy上的课程买下来能否看得流畅，Netflix、HBO上的新剧能不能追，都取决于我们能否能访问外网。</p>
+<p>我想先提醒读者：<strong>没有完美的翻牆软件，不要这样期望。</strong></p>
+<h3 id="3-翻牆原理和方式🌎"><a href="#3-翻牆原理和方式🌎" class="headerlink" title="3. 翻牆原理和方式🌎"></a>3. 翻牆原理和方式🌎</h3><p><strong>科学上网的原理：</strong> 通过 VPN、ss、ssr、v2ray 、代理等对上网流量、数据加密，以此躲避 GFW 长城防火墙检测，实现自由上网，也被用于数据传输安全、网络匿名、隐私保护等。</p>
+<p><strong>适用：</strong> Windows、Linux、Mac、Android、IOS、路由器、TV 等全平台</p>
+<p><strong>目前翻牆方式介绍</strong><br>1、<code>VPN</code></p>
+<p>VPN 的流量特征过于明显容易被 GFW 防火墙识别，且价格昂贵，现在已不提倡使用。</p>
+<p>2、<code>SS、SSR、V2ray 机场</code></p>
+<p>SS、SSR、V2ray 是什么？</p>
+<p>三个都是目前科学上网比较主流的加密协议,通过加密混淆伪装成正常流量，让 GFW 防火墙识别更困难。</p>
+<p>3、<code>搭建自己的科学上网服务器</code></p>
+<p>需要一定动手能力，只要你有网络，几分钟便能搭建一台可以科学上网的代理服务器，科学上网的终极姿势。</p>
+<p>上文的机场实际上就是替你完成了搭建这一步，直接向你提供搭建好的节点供你使用</p>
+<p>此方案理论永久可行，尤其是在出现特殊情况，比如：封锁严重，大面积科学上网失效的时候作为应急方案。IP 被封更换 IP 即可，适合喜欢折腾的同学。</p>
+<p>小白建议还是用机场，省事省心</p>
+<p>4、<code>代理（Proxy）类</code></p>
+<p>比如蓝灯（基于SOCKS5加密协议）,在代理类的“科学上网”工具中，最具代表性的就是：蓝灯。在中国互联网审查还没有非常严峻的前些年，蓝灯是大部分人翻牆的首选，它也是最受欢迎的翻牆工具。但随着近几年互联网审查越来越严，蓝灯也慢慢失去了它“翻牆首选”的称号，经常掉线。尤其是在每年比较敏感的几个时间段，都会出现无法翻牆或者频繁掉线的情况。</p>
+<h3 id="4-机场是什么？🚀"><a href="#4-机场是什么？🚀" class="headerlink" title="4. 机场是什么？🚀"></a>4. 机场是什么？🚀</h3><p>通常由第三方大厂承担搭建，直接向用户提供 ss、ssr、v2ray 节点服务，免去个人搭建流程，更快捷，线路优化也更好。<br>机场是老司机和小白皆可的一种方案，省事省心，稳定性和速度兼顾。 </p>
+<h3 id="5-翻牆后能做什么？🕵️‍♂️"><a href="#5-翻牆后能做什么？🕵️‍♂️" class="headerlink" title="5. 翻牆后能做什么？🕵️‍♂️"></a>5. 翻牆后能做什么？🕵️‍♂️</h3><p><code>·外网资源推荐·</code></p>
+<h4 id="常用网站"><a href="#常用网站" class="headerlink" title="常用网站"></a>常用网站</h4><table>
+<thead>
+<tr>
+<th><a href="https://www.google.com/">Google</a></th>
+<th><a href="https://www.gmail.com/">Gmail</a></th>
+<th><a href="https://www.facebook.com/">Facebook</a></th>
+</tr>
+</thead>
+<tbody><tr>
+<td><a href="https://www.twitter.com/">Twitter</a></td>
+<td><a href="https://www.youtube.com/">YouTube</a></td>
+<td><a href="https://www.instagram.com/">Instagram</a></td>
+</tr>
+</tbody></table>
+<h3 id="6-中国使用VPN的常见问题"><a href="#6-中国使用VPN的常见问题" class="headerlink" title="6. 中国使用VPN的常见问题"></a>6. 中国使用VPN的常见问题</h3><p><strong>中国为什么封杀VPN？</strong></p>
+<p>众所周知，中国大陆的防火墙（GFW）屏蔽了大量的海外网站，于是带来了“翻牆”的需要。大量网民使用VPN来绕过GFW的封锁、访问墙外网站。为了阻止国内网民使用VPN翻牆，中国自然会封杀VPN。</p>
+<p><strong>翻牆看新闻会被抓吗？</strong></p>
+<p>近年来中国出现了几起网民因为翻牆而被抓的事件，但根据观察，中国重点打击的是私自出售VPN的行为，而普通人翻牆目前并不需要过于担心。其实中国每天都有不计其数的人翻牆看新闻和从事正常的跨国工作等，这些和政治无关的翻牆行为是管不过来的。所以，“对于“翻牆看新闻会被抓吗？” 这样的问题，大家只有翻牆是保持低调，并不需要过于担心。</p>
+<p><strong>个人使用VPN违法吗？</strong></p>
+<p>近年来中国出现了几起因为翻牆被抓的事件，现在可以明确的是：在中国私自出售VPN服务是违法的，但至于个人使用VPN违法与否，现在并没有明确的答案。事实上，中国每天都有不计其数的人因为个人或工作需要来使用VPN翻牆，这其中不仅包括翻牆看新闻、翻牆看油管，也包括外贸往来，留学生和学校联系等等。如果这些个人使用VPN都算违法而被法律制裁，那么估计这么多违法的人也是处理不过来的。总之，对于“个人使用VPN违法吗？”这样的问题，大家目前不需要过于担心，但使用VPN应尽量保持低调。</p>
+<p><strong>卖VPN违法吗？</strong></p>
+<p>根据工信部的规定：“未经电信主管部门批准，不得自行建立或租用专线（含虚拟专用网络VPN）等其他信道开展跨境经营活动。”，所以，除非经过有关部门允许，在中国大陆卖VPN是违法的。</p>
+<p><strong>用VPN会被发现吗？</strong></p>
+<p>网络运营商是可以随时监控网民的互联网使用情况的。理论上说，使用VPN是可以被运营商发现的（虽然通过VPN访问了哪些网站未必能被发现）。目前有些VPN加入了伪装、混淆功能来避免VPN流量被发现，但GFW也在不断升级，所以不要以为用VPN或其它翻牆梯子就不会被发现。</p>
+<hr>
+<blockquote>
+<h4 id="其他翻牆篇："><a href="#其他翻牆篇：" class="headerlink" title="其他翻牆篇："></a>其他翻牆篇：</h4><ul>
+<li><a href="https://maomeng.xyz/2021/06/05/win-mac-ios-android-yi-jian-fan-qiang/">Win/MAC/ios/Android一键翻墙</a></li>
+<li><a href="https://maomeng.xyz/2021/06/08/dai-li-gong-ju-ke-hu-duan/">代理工具客户端</a></li>
+<li><a href="https://maomeng.xyz/2021/06/11/ji-chang-tui-jian-chang-qi-geng-xin/">机场推荐🚀（长期更新）</a></li>
 </ul>
 </blockquote>
 ]]></content>
