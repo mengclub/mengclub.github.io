@@ -65,6 +65,73 @@
       </tags>
   </entry>
   <entry>
+    <title>超详细的翻墙科普教程</title>
+    <url>/2021/06/01/chao-xiang-xi-de-fan-qiang-ke-pu-jiao-cheng/</url>
+    <content><![CDATA[<p>这是一份超详细的科学上网（翻牆）指南，只为学习国外先进科学技术，提升工作效率，方便查找资料使用。</p>
+<p>网络不是法外之地，我们的目的是学习国外先进科学技术，切莫在网络发表不当言论，更不可做任何危害民族和国家利益的事，否则后果自负。翻牆需谨慎，且行且珍惜。</p>
+<p><strong>切勿翻牆从事违法行为，否则后果自负！</strong><br><strong>遵守中国互联网法，做一个遵纪守法的好公民。</strong><br><strong>声明：本人分享教程、软件，仅限于科学研究和学习使用。</strong>  </p>
+<p><a href="https://www.ayay.one/?mid=1105"><font color="#E44D29" size="5px"><b>[推荐] </b></font><b><font color="#00cb44" size="5px">安易加速器⚡️ 注册即免费获得一年体验会员，告别失联困扰！</font></b></a></p>
+<h2 id="科普一下✈"><a href="#科普一下✈" class="headerlink" title="科普一下✈"></a>科普一下✈</h2><h3 id="1-什么是长城防火墙？🕵️‍"><a href="#1-什么是长城防火墙？🕵️‍" class="headerlink" title="1. 什么是长城防火墙？🕵️‍"></a>1. 什么是长城防火墙？🕵️‍</h3><p>长城防火墙的英文全称叫：The Great Firewall，也就是我们俗称的“墙”。长城防火墙的存在是为了规范和监管中国互联网，它通过相关硬件和软件防火墙组成的一道过滤网，用于保护中国大陆的网络环境。它监管着所有的跨境互联网流量，并阻止中国大陆网民访问一些外部Web服务。这就是所谓的“长城防火墙”。</p>
+<h3 id="2-关于科学上网🌍"><a href="#2-关于科学上网🌍" class="headerlink" title="2. 关于科学上网🌍"></a>2. 关于科学上网🌍</h3><p><a href="https://zh.wikipedia.org/wiki/%E7%AA%81%E7%A0%B4%E7%BD%91%E7%BB%9C%E5%AE%A1%E6%9F%A5">科学上网</a>（也叫翻牆），所谓的“科学上网”，也就是通过一些技术手段来绕过中国长城防火墙的监管和限制，去访问一些国外的网站和服务。而想要绕过中国长城防火墙的监管和限制，就必须要使用“科学上网工具”或者“翻牆软件”。</p>
+<p>翻牆有多重要，我想无需过多解释，它决定着我们很多人的网络生活质量，Gmail的邮件回不回得了，能不能Google某段程序怎么写，看不看得到特朗普发的最新Twitter，能不能在社交媒体上跟踪自己感兴趣的群组，国外的公开课视频能不能看，Udemy上的课程买下来能否看得流畅，Netflix、HBO上的新剧能不能追，都取决于我们能否能访问外网。</p>
+<p>我想先提醒读者：<strong>没有完美的翻牆软件，不要这样期望。</strong></p>
+<h3 id="3-翻牆原理和方式🌎"><a href="#3-翻牆原理和方式🌎" class="headerlink" title="3. 翻牆原理和方式🌎"></a>3. 翻牆原理和方式🌎</h3><p><strong>科学上网的原理：</strong> 通过 VPN、ss、ssr、v2ray 、代理等对上网流量、数据加密，以此躲避 GFW 长城防火墙检测，实现自由上网，也被用于数据传输安全、网络匿名、隐私保护等。</p>
+<p><strong>适用：</strong> Windows、Linux、Mac、Android、IOS、路由器、TV 等全平台</p>
+<p><strong>目前翻牆方式介绍</strong><br>1、<code>VPN</code></p>
+<p>VPN 的流量特征过于明显容易被 GFW 防火墙识别，且价格昂贵，现在已不提倡使用。</p>
+<p>2、<code>SS、SSR、V2ray 机场</code></p>
+<p>SS、SSR、V2ray 是什么？</p>
+<p>三个都是目前科学上网比较主流的加密协议,通过加密混淆伪装成正常流量，让 GFW 防火墙识别更困难。</p>
+<p>3、<code>搭建自己的科学上网服务器</code></p>
+<p>需要一定动手能力，只要你有网络，几分钟便能搭建一台可以科学上网的代理服务器，科学上网的终极姿势。</p>
+<p>上文的机场实际上就是替你完成了搭建这一步，直接向你提供搭建好的节点供你使用</p>
+<p>此方案理论永久可行，尤其是在出现特殊情况，比如：封锁严重，大面积科学上网失效的时候作为应急方案。IP 被封更换 IP 即可，适合喜欢折腾的同学。</p>
+<p>小白建议还是用机场，省事省心</p>
+<p>4、<code>代理（Proxy）类</code></p>
+<p>比如蓝灯（基于SOCKS5加密协议）,在代理类的“科学上网”工具中，最具代表性的就是：蓝灯。在中国互联网审查还没有非常严峻的前些年，蓝灯是大部分人翻牆的首选，它也是最受欢迎的翻牆工具。但随着近几年互联网审查越来越严，蓝灯也慢慢失去了它“翻牆首选”的称号，经常掉线。尤其是在每年比较敏感的几个时间段，都会出现无法翻牆或者频繁掉线的情况。</p>
+<h3 id="4-机场是什么？🚀"><a href="#4-机场是什么？🚀" class="headerlink" title="4. 机场是什么？🚀"></a>4. 机场是什么？🚀</h3><p>通常由第三方大厂承担搭建，直接向用户提供 ss、ssr、v2ray 节点服务，免去个人搭建流程，更快捷，线路优化也更好。<br>机场是老司机和小白皆可的一种方案，省事省心，稳定性和速度兼顾。 </p>
+<h3 id="5-翻牆后能做什么？🕵️‍♂️"><a href="#5-翻牆后能做什么？🕵️‍♂️" class="headerlink" title="5. 翻牆后能做什么？🕵️‍♂️"></a>5. 翻牆后能做什么？🕵️‍♂️</h3><p><code>·外网资源推荐·</code></p>
+<h4 id="常用网站"><a href="#常用网站" class="headerlink" title="常用网站"></a>常用网站</h4><table>
+<thead>
+<tr>
+<th><a href="https://www.google.com/">Google</a></th>
+<th><a href="https://www.gmail.com/">Gmail</a></th>
+<th><a href="https://www.facebook.com/">Facebook</a></th>
+</tr>
+</thead>
+<tbody><tr>
+<td><a href="https://www.twitter.com/">Twitter</a></td>
+<td><a href="https://www.youtube.com/">YouTube</a></td>
+<td><a href="https://www.instagram.com/">Instagram</a></td>
+</tr>
+</tbody></table>
+<h3 id="6-中国使用VPN的常见问题"><a href="#6-中国使用VPN的常见问题" class="headerlink" title="6. 中国使用VPN的常见问题"></a>6. 中国使用VPN的常见问题</h3><p><strong>中国为什么封杀VPN？</strong></p>
+<p>众所周知，中国大陆的防火墙（GFW）屏蔽了大量的海外网站，于是带来了“翻牆”的需要。大量网民使用VPN来绕过GFW的封锁、访问墙外网站。为了阻止国内网民使用VPN翻牆，中国自然会封杀VPN。</p>
+<p><strong>翻牆看新闻会被抓吗？</strong></p>
+<p>近年来中国出现了几起网民因为翻牆而被抓的事件，但根据观察，中国重点打击的是私自出售VPN的行为，而普通人翻牆目前并不需要过于担心。其实中国每天都有不计其数的人翻牆看新闻和从事正常的跨国工作等，这些和政治无关的翻牆行为是管不过来的。所以，“对于“翻牆看新闻会被抓吗？” 这样的问题，大家只有翻牆是保持低调，并不需要过于担心。</p>
+<p><strong>个人使用VPN违法吗？</strong></p>
+<p>近年来中国出现了几起因为翻牆被抓的事件，现在可以明确的是：在中国私自出售VPN服务是违法的，但至于个人使用VPN违法与否，现在并没有明确的答案。事实上，中国每天都有不计其数的人因为个人或工作需要来使用VPN翻牆，这其中不仅包括翻牆看新闻、翻牆看油管，也包括外贸往来，留学生和学校联系等等。如果这些个人使用VPN都算违法而被法律制裁，那么估计这么多违法的人也是处理不过来的。总之，对于“个人使用VPN违法吗？”这样的问题，大家目前不需要过于担心，但使用VPN应尽量保持低调。</p>
+<p><strong>卖VPN违法吗？</strong></p>
+<p>根据工信部的规定：“未经电信主管部门批准，不得自行建立或租用专线（含虚拟专用网络VPN）等其他信道开展跨境经营活动。”，所以，除非经过有关部门允许，在中国大陆卖VPN是违法的。</p>
+<p><strong>用VPN会被发现吗？</strong></p>
+<p>网络运营商是可以随时监控网民的互联网使用情况的。理论上说，使用VPN是可以被运营商发现的（虽然通过VPN访问了哪些网站未必能被发现）。目前有些VPN加入了伪装、混淆功能来避免VPN流量被发现，但GFW也在不断升级，所以不要以为用VPN或其它翻牆梯子就不会被发现。</p>
+<hr>
+<blockquote>
+<h4 id="其他翻牆篇："><a href="#其他翻牆篇：" class="headerlink" title="其他翻牆篇："></a>其他翻牆篇：</h4><ul>
+<li><a href="https://maomeng.xyz/2021/06/05/win-mac-ios-android-yi-jian-fan-qiang/">Win/MAC/ios/Android一键翻墙</a></li>
+<li><a href="https://maomeng.xyz/2021/06/08/dai-li-gong-ju-ke-hu-duan/">代理工具客户端</a></li>
+<li><a href="https://maomeng.xyz/2021/06/11/ji-chang-tui-jian-chang-qi-geng-xin/">机场推荐🚀（长期更新）</a></li>
+</ul>
+</blockquote>
+]]></content>
+      <categories>
+        <category>翻墙</category>
+      </categories>
+      <tags>
+        <tag>翻墙</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>代理工具客户端</title>
     <url>/2021/06/08/dai-li-gong-ju-ke-hu-duan/</url>
     <content><![CDATA[<p><strong>切勿翻牆从事违法行为，否则后果自负！</strong><br><strong>遵守中国互联网法，做一个遵纪守法的好公民。</strong><br><strong>声明：本人分享教程、软件，仅限于科学研究和学习使用。</strong>  </p>
@@ -136,73 +203,6 @@
       </tags>
   </entry>
   <entry>
-    <title>超详细的翻墙科普教程</title>
-    <url>/2021/06/01/chao-xiang-xi-de-fan-qiang-ke-pu-jiao-cheng/</url>
-    <content><![CDATA[<p>这是一份超详细的科学上网（翻牆）指南，只为学习国外先进科学技术，提升工作效率，方便查找资料使用。</p>
-<p>网络不是法外之地，我们的目的是学习国外先进科学技术，切莫在网络发表不当言论，更不可做任何危害民族和国家利益的事，否则后果自负。翻牆需谨慎，且行且珍惜。</p>
-<p><strong>切勿翻牆从事违法行为，否则后果自负！</strong><br><strong>遵守中国互联网法，做一个遵纪守法的好公民。</strong><br><strong>声明：本人分享教程、软件，仅限于科学研究和学习使用。</strong>  </p>
-<p><a href="https://www.ayay.one/?mid=1105"><font color="#E44D29" size="5px"><b>[推荐] </b></font><b><font color="#00cb44" size="5px">安易加速器⚡️ 注册即免费获得一年体验会员，告别失联困扰！</font></b></a></p>
-<h2 id="科普一下✈"><a href="#科普一下✈" class="headerlink" title="科普一下✈"></a>科普一下✈</h2><h3 id="1-什么是长城防火墙？🕵️‍"><a href="#1-什么是长城防火墙？🕵️‍" class="headerlink" title="1. 什么是长城防火墙？🕵️‍"></a>1. 什么是长城防火墙？🕵️‍</h3><p>长城防火墙的英文全称叫：The Great Firewall，也就是我们俗称的“墙”。长城防火墙的存在是为了规范和监管中国互联网，它通过相关硬件和软件防火墙组成的一道过滤网，用于保护中国大陆的网络环境。它监管着所有的跨境互联网流量，并阻止中国大陆网民访问一些外部Web服务。这就是所谓的“长城防火墙”。</p>
-<h3 id="2-关于科学上网🌍"><a href="#2-关于科学上网🌍" class="headerlink" title="2. 关于科学上网🌍"></a>2. 关于科学上网🌍</h3><p><a href="https://zh.wikipedia.org/wiki/%E7%AA%81%E7%A0%B4%E7%BD%91%E7%BB%9C%E5%AE%A1%E6%9F%A5">科学上网</a>（也叫翻牆），所谓的“科学上网”，也就是通过一些技术手段来绕过中国长城防火墙的监管和限制，去访问一些国外的网站和服务。而想要绕过中国长城防火墙的监管和限制，就必须要使用“科学上网工具”或者“翻牆软件”。</p>
-<p>翻牆有多重要，我想无需过多解释，它决定着我们很多人的网络生活质量，Gmail的邮件回不回得了，能不能Google某段程序怎么写，看不看得到特朗普发的最新Twitter，能不能在社交媒体上跟踪自己感兴趣的群组，国外的公开课视频能不能看，Udemy上的课程买下来能否看得流畅，Netflix、HBO上的新剧能不能追，都取决于我们能否能访问外网。</p>
-<p>我想先提醒读者：<strong>没有完美的翻牆软件，不要这样期望。</strong></p>
-<h3 id="3-翻牆原理和方式🌎"><a href="#3-翻牆原理和方式🌎" class="headerlink" title="3. 翻牆原理和方式🌎"></a>3. 翻牆原理和方式🌎</h3><p><strong>科学上网的原理：</strong> 通过 VPN、ss、ssr、v2ray 、代理等对上网流量、数据加密，以此躲避 GFW 长城防火墙检测，实现自由上网，也被用于数据传输安全、网络匿名、隐私保护等。</p>
-<p><strong>适用：</strong> Windows、Linux、Mac、Android、IOS、路由器、TV 等全平台</p>
-<p><strong>目前翻牆方式介绍</strong><br>1、<code>VPN</code></p>
-<p>VPN 的流量特征过于明显容易被 GFW 防火墙识别，且价格昂贵，现在已不提倡使用。</p>
-<p>2、<code>SS、SSR、V2ray 机场</code></p>
-<p>SS、SSR、V2ray 是什么？</p>
-<p>三个都是目前科学上网比较主流的加密协议,通过加密混淆伪装成正常流量，让 GFW 防火墙识别更困难。</p>
-<p>3、<code>搭建自己的科学上网服务器</code></p>
-<p>需要一定动手能力，只要你有网络，几分钟便能搭建一台可以科学上网的代理服务器，科学上网的终极姿势。</p>
-<p>上文的机场实际上就是替你完成了搭建这一步，直接向你提供搭建好的节点供你使用</p>
-<p>此方案理论永久可行，尤其是在出现特殊情况，比如：封锁严重，大面积科学上网失效的时候作为应急方案。IP 被封更换 IP 即可，适合喜欢折腾的同学。</p>
-<p>小白建议还是用机场，省事省心</p>
-<p>4、<code>代理（Proxy）类</code></p>
-<p>比如蓝灯（基于SOCKS5加密协议）,在代理类的“科学上网”工具中，最具代表性的就是：蓝灯。在中国互联网审查还没有非常严峻的前些年，蓝灯是大部分人翻牆的首选，它也是最受欢迎的翻牆工具。但随着近几年互联网审查越来越严，蓝灯也慢慢失去了它“翻牆首选”的称号，经常掉线。尤其是在每年比较敏感的几个时间段，都会出现无法翻牆或者频繁掉线的情况。</p>
-<h3 id="4-机场是什么？🚀"><a href="#4-机场是什么？🚀" class="headerlink" title="4. 机场是什么？🚀"></a>4. 机场是什么？🚀</h3><p>通常由第三方大厂承担搭建，直接向用户提供 ss、ssr、v2ray 节点服务，免去个人搭建流程，更快捷，线路优化也更好。<br>机场是老司机和小白皆可的一种方案，省事省心，稳定性和速度兼顾。 </p>
-<h3 id="5-翻牆后能做什么？🕵️‍♂️"><a href="#5-翻牆后能做什么？🕵️‍♂️" class="headerlink" title="5. 翻牆后能做什么？🕵️‍♂️"></a>5. 翻牆后能做什么？🕵️‍♂️</h3><p><code>·外网资源推荐·</code></p>
-<h4 id="常用网站"><a href="#常用网站" class="headerlink" title="常用网站"></a>常用网站</h4><table>
-<thead>
-<tr>
-<th><a href="https://www.google.com/">Google</a></th>
-<th><a href="https://www.gmail.com/">Gmail</a></th>
-<th><a href="https://www.facebook.com/">Facebook</a></th>
-</tr>
-</thead>
-<tbody><tr>
-<td><a href="https://www.twitter.com/">Twitter</a></td>
-<td><a href="https://www.youtube.com/">YouTube</a></td>
-<td><a href="https://www.instagram.com/">Instagram</a></td>
-</tr>
-</tbody></table>
-<h3 id="6-中国使用VPN的常见问题"><a href="#6-中国使用VPN的常见问题" class="headerlink" title="6. 中国使用VPN的常见问题"></a>6. 中国使用VPN的常见问题</h3><p><strong>中国为什么封杀VPN？</strong></p>
-<p>众所周知，中国大陆的防火墙（GFW）屏蔽了大量的海外网站，于是带来了“翻牆”的需要。大量网民使用VPN来绕过GFW的封锁、访问墙外网站。为了阻止国内网民使用VPN翻牆，中国自然会封杀VPN。</p>
-<p><strong>翻牆看新闻会被抓吗？</strong></p>
-<p>近年来中国出现了几起网民因为翻牆而被抓的事件，但根据观察，中国重点打击的是私自出售VPN的行为，而普通人翻牆目前并不需要过于担心。其实中国每天都有不计其数的人翻牆看新闻和从事正常的跨国工作等，这些和政治无关的翻牆行为是管不过来的。所以，“对于“翻牆看新闻会被抓吗？” 这样的问题，大家只有翻牆是保持低调，并不需要过于担心。</p>
-<p><strong>个人使用VPN违法吗？</strong></p>
-<p>近年来中国出现了几起因为翻牆被抓的事件，现在可以明确的是：在中国私自出售VPN服务是违法的，但至于个人使用VPN违法与否，现在并没有明确的答案。事实上，中国每天都有不计其数的人因为个人或工作需要来使用VPN翻牆，这其中不仅包括翻牆看新闻、翻牆看油管，也包括外贸往来，留学生和学校联系等等。如果这些个人使用VPN都算违法而被法律制裁，那么估计这么多违法的人也是处理不过来的。总之，对于“个人使用VPN违法吗？”这样的问题，大家目前不需要过于担心，但使用VPN应尽量保持低调。</p>
-<p><strong>卖VPN违法吗？</strong></p>
-<p>根据工信部的规定：“未经电信主管部门批准，不得自行建立或租用专线（含虚拟专用网络VPN）等其他信道开展跨境经营活动。”，所以，除非经过有关部门允许，在中国大陆卖VPN是违法的。</p>
-<p><strong>用VPN会被发现吗？</strong></p>
-<p>网络运营商是可以随时监控网民的互联网使用情况的。理论上说，使用VPN是可以被运营商发现的（虽然通过VPN访问了哪些网站未必能被发现）。目前有些VPN加入了伪装、混淆功能来避免VPN流量被发现，但GFW也在不断升级，所以不要以为用VPN或其它翻牆梯子就不会被发现。</p>
-<hr>
-<blockquote>
-<h4 id="其他翻牆篇："><a href="#其他翻牆篇：" class="headerlink" title="其他翻牆篇："></a>其他翻牆篇：</h4><ul>
-<li><a href="https://maomeng.xyz/2021/06/05/win-mac-ios-android-yi-jian-fan-qiang/">Win/MAC/ios/Android一键翻墙</a></li>
-<li><a href="https://maomeng.xyz/2021/06/08/dai-li-gong-ju-ke-hu-duan/">代理工具客户端</a></li>
-<li><a href="https://maomeng.xyz/2021/06/11/ji-chang-tui-jian-chang-qi-geng-xin/">机场推荐🚀（长期更新）</a></li>
-</ul>
-</blockquote>
-]]></content>
-      <categories>
-        <category>翻墙</category>
-      </categories>
-      <tags>
-        <tag>翻墙</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>机场推荐🚀（长期更新）</title>
     <url>/2021/06/11/ji-chang-tui-jian-chang-qi-geng-xin/</url>
     <content><![CDATA[<p><strong>切勿翻牆从事违法行为，否则后果自负！</strong><br><strong>遵守中国互联网法，做一个遵纪守法的好公民。</strong><br><strong>声明：本人分享教程、软件，仅限于科学研究和学习使用</strong>  </p>
@@ -234,20 +234,25 @@
 <h2 id="最新机场推荐："><a href="#最新机场推荐：" class="headerlink" title="最新机场推荐："></a><font color="#ff0000" size="6px">最新机场推荐：</font></h2><p><a href="https://a.kpyun.live/#/register?code=rQB8whe9"><font color="#E44D29" size="5px"><b>[推荐] </b></font><b><font color="#5A83DB" size="5px">Fastlink🚀机场 - 4年老牌海外机场，使用 AnyCast 协议，给你高速网络，保护你的安全隐私，节点速度高达5Gbps，无视高峰期、超级稳定无卡顿。</font></b></a></p>
 <p><a href="https://maomeng01.youbbv.com/auth/register?code=7elG"><font color="#E44D29" size="5px"><b>[推荐] </b></font><b><font color="#FB4D3D" size="5px">SpeedCAT⚡️闪电猫 - 最推荐老牌机场，提供高级机场全 IPLC 专线，没有倍率、没有套路，主打快速稳定，拥有超过120+节点。解锁多种流媒体，支持Chatgpt，自带云服务负载组，实行网络安全，安心科学上网。</font></b></a></p>
 <p><a href="https://main.cute-cloud.de/auth/register?code=oB7k"><font color="#E44D29" size="5px"><b>[推荐] </b></font><b><font color="#00CCFF" size="5px">最萌の云 ☁️年度最佳云服务商，全球数百个万兆服务器负载加速，全天稳定8K。有0.1倍率公益节点和专用客户端；部分套餐提供流媒体账户共享；解锁多种流媒体，并有IPLC等顶级专线！限时免费尝鲜！</font></b></a></p>
-<h3 id="FastLink（推荐）"><a href="#FastLink（推荐）" class="headerlink" title="FastLink（推荐）"></a>FastLink（推荐）</h3><p><code>更新于2024年11月11日</code></p>
+<h3 id="FastLink（推荐）"><a href="#FastLink（推荐）" class="headerlink" title="FastLink（推荐）"></a>FastLink（推荐）</h3><p><code>更新于2024年11月12日</code></p>
 <p>使用 AnyCast 协议，给你高速网络，保护安全隐私，<br>节点速度高达5Gbps，无视高峰期、超级稳定无卡顿。</p>
 <p>官网：<a href="https://a.kpyun.live/#/register?code=rQB8whe9">点我进入</a></p>
 <p>价格：<a href="https://img.xwyue.com/i/2023/09/02/64f2cd378accd.png">点我查看</a></p>
 <p>优惠码：<code>MMFASTLINK</code></p>
-<h3 id="最萌の云（推荐）"><a href="#最萌の云（推荐）" class="headerlink" title="最萌の云（推荐）"></a>最萌の云（推荐）</h3><p><code>更新于2024年11月11日</code></p>
+<h3 id="最萌の云（推荐）"><a href="#最萌の云（推荐）" class="headerlink" title="最萌の云（推荐）"></a>最萌の云（推荐）</h3><p><code>更新于2024年11月12日</code></p>
 <p>无需邮箱验证，稳定老牌机场，有体验套餐，签到暴击。<br>原生动态IP，解锁多数访问限制，是最先提供对ChatGpt稳定解锁的商家。<br>国内白名单区域一样可用，速度和稳定性极佳，实测全天Youtube可跑8K。<br>有超低倍率节点/专用加速器/各种共享账户/负载均衡/可定制解锁内容。  </p>
 <p>官网：<a href="https://main.cute-cloud.de/auth/register?code=oB7k">点我进入</a></p>
 <p>价格：<a href="https://img.xwyue.com/i/2023/09/02/64f2cd00a81b8.png">点我查看</a></p>
-<h3 id="Kepa云（推荐）"><a href="#Kepa云（推荐）" class="headerlink" title="Kepa云（推荐）"></a>Kepa云（推荐）</h3><p><code>更新于2024年11月11日</code></p>
+<h3 id="Kepa云（推荐）"><a href="#Kepa云（推荐）" class="headerlink" title="Kepa云（推荐）"></a>Kepa云（推荐）</h3><p><code>更新于2024年11月12日</code></p>
 <p>无需邮箱验证，国内中转高速节点，<br>流媒体ChatGPT解锁，YouTube全天4K无压力！<br>购买套餐送共享小火箭账号，无节点倍率套路！</p>
 <p>官网：<a href="https://a.kpyun.live/#/register?code=rQB8whe9">点我进入</a></p>
 <p>价格：<a href="https://s1.boluo.link/imgs/2024/01/12/d297701515be093d.png">点我查看</a></p>
 <p>9折优惠码：<code>happy</code></p>
+<h3 id="飞一般"><a href="#飞一般" class="headerlink" title="飞一般"></a>飞一般</h3><p><code>更新于2024年11月12日</code></p>
+<p><strong>无需邮箱验证</strong>，新用户注册后可前往商店使用<code>优惠码</code>0元购买30天50G流量<code>入门</code>套餐。</p>
+<p>官网：<a href="https://i.fei.best/#/login?code=QFstKxqw">点我进入</a></p>
+<p>价格：<a href="https://pic2.ziyuan.wang/user/menthan/2024/11/20241111233345_5f63808703982.png">点我查看</a></p>
+<p>优惠码：<code>白嫖</code></p>
 <h3 id="优速互联"><a href="#优速互联" class="headerlink" title="优速互联"></a>优速互联</h3><p><code>更新于2024年11月11日</code></p>
 <p><strong>需邮箱验证</strong>，新用户注册后可前往商店使用<code>优惠码</code>0元购买30天50G流量<code>subsidy</code>套餐。</p>
 <p>官网：<a href="https://c.yousu.cc/#/register?code=zENPlO3K">点我进入</a></p>
@@ -285,12 +290,12 @@
 <p><strong>需邮箱验证</strong>，新用户注册后可前往商店使用<code>优惠码</code>0元购买30天220G流量<code>220G套餐</code>套餐。</p>
 <p>官网：<a href="https://mly01.miaolianyun.my/#/register?code=yuPQawJA">点我进入</a></p>
 <p>价格：<a href="https://pic2.ziyuan.wang/user/menthan/2024/11/20241103225006_a03758b5d6d44.png">点我查看</a></p>
-<p>优惠码：<code>秒连云.com</code></p>
+<p>优惠码：<code>秒连云双十一</code></p>
 <h3 id="柠萌宝"><a href="#柠萌宝" class="headerlink" title="柠萌宝"></a>柠萌宝</h3><p><code>更新于2024年11月3日</code></p>
 <p><strong>无需邮箱验证</strong>，新用户注册后可前往商店使用<code>优惠码</code>0元购买30天50G流量<code>免费公测</code>套餐。</p>
 <p>官网：<a href="https://cloud.柠萌宝.com/#/register?code=7OYQNwbi">点我进入</a></p>
 <p>价格：<a href="https://pic2.ziyuan.wang/user/menthan/2024/11/20241102214509_69ddffada1b31.png">点我查看</a></p>
-<p>优惠码：<code>lemonbao888</code></p>
+<p>优惠码：<code>lemonbao666</code></p>
 <h3 id="便宜机场"><a href="#便宜机场" class="headerlink" title="便宜机场"></a>便宜机场</h3><p><code>更新于2024年11月1日</code></p>
 <p><strong>无需邮箱验证</strong>，新用户注册后可前往商店使用<code>优惠码</code>0元购买30天50G流量<code>普通</code>套餐。</p>
 <p>官网：<a href="https://便宜机场.co/#/register?code=qeArWVim">点我进入</a></p>
@@ -307,9 +312,9 @@
 <p>优惠码：<code>jN9MGN0T</code></p>
 <h3 id="ASA加速器"><a href="#ASA加速器" class="headerlink" title="ASA加速器"></a>ASA加速器</h3><p><code>更新于2024年10月29日</code></p>
 <p><strong>需邮箱验证</strong>，新用户注册后可前往商店使用<code>优惠码</code>0元购买30天100G流量<code>免费套餐</code>套餐。</p>
-<p>官网：<a href="https://a8.asa.lol/#/register?code=DwDsKvaX">点我进入</a></p>
+<p>官网：<a href="https://aeda2.asa.lol/#/register?code=GvZkMCgG">点我进入</a></p>
 <p>价格：<a href="https://pic2.ziyuan.wang/user/menthan/2024/09/20240905213713_dd9eb53bcab25.png">点我查看</a></p>
-<p>优惠码：<code>zuguofanrongchangsheng</code></p>
+<p>优惠码：<code>asa.mom</code></p>
 <h3 id="早安云"><a href="#早安云" class="headerlink" title="早安云"></a>早安云</h3><p><code>更新于2024年10月28日</code></p>
 <p><strong>无需邮箱验证</strong>，新用户注册后可前往商店使用<code>优惠码</code>0元购买30天100G流量<code>一缕朝晖</code>套餐。</p>
 <p>官网：<a href="https://早安云.com/#/register?code=ekDRvRMU">点我进入</a></p>
@@ -317,106 +322,39 @@
 <p>优惠码：<code>free50</code></p>
 <h3 id="CAC-Apex"><a href="#CAC-Apex" class="headerlink" title="CAC Apex"></a>CAC Apex</h3><p><code>更新于2024年10月27日</code></p>
 <p><strong>需邮箱验证</strong>，新用户注册后可前往商店使用<code>优惠码</code>0元购买30天168G流量<code>免费套餐</code>套餐。</p>
-<p>官网：<a href="https://speed.cacweb1.xyz/#/register?code=vuMGcRFq">点我进入</a></p>
+<p>官网：<a href="https://www.32487623796.baby/#/register?code=vuMGcRFq">点我进入</a></p>
 <p>价格：<a href="https://pic2.ziyuan.wang/user/menthan/2024/09/20240910225829_6a079d267f2c0.png">点我查看</a></p>
-<p>优惠码：<code>MFDHM10</code></p>
-<h3 id="X-Cloud"><a href="#X-Cloud" class="headerlink" title="X Cloud"></a>X Cloud</h3><p><code>更新于2024年10月26日</code></p>
-<p><strong>无需邮箱验证</strong>，新用户注册后可前往商店使用<code>优惠码</code>0元购买30天100G流量<code>限时福利套餐</code>套餐。</p>
-<p>官网：<a href="https://vips.lol/#/register?code=u9bLQst1">点我进入</a></p>
-<p>价格：<a href="https://pic2.ziyuan.wang/user/menthan/2024/10/20241025233411_7e157e8e062a2.png">点我查看</a></p>
-<p>优惠码：<code>yichi</code></p>
+<p>优惠码：<code>MFDHM11</code></p>
 <h3 id="养老机场"><a href="#养老机场" class="headerlink" title="养老机场"></a>养老机场</h3><p><code>更新于2024年10月25日</code></p>
-<p><strong>无需邮箱验证</strong>，新用户注册后可前往商店使用<code>优惠码</code>0元购买30天20G流量<code>平安守护套餐-20G</code>套餐。</p>
+<p><strong>无需邮箱验证</strong>，新用户注册后可前往商店0元购买30天15G流量<code>平安守护套餐-15G</code>套餐。</p>
 <p>官网：<a href="https://www2345.养老机场.com/#/register?code=t7sG8hHI">点我进入</a></p>
 <p>价格：<a href="https://pic2.ziyuan.wang/user/menthan/2024/10/20241006220311_37b5833eaaf5e.png">点我查看</a></p>
 <h3 id="水牛云"><a href="#水牛云" class="headerlink" title="水牛云"></a>水牛云</h3><p><code>更新于2024年10月24日</code></p>
 <p><strong>需邮箱验证</strong>，新用户注册后可前往商店使用<code>优惠码</code>0元购买30天100G流量<code>牛牛-白嫖套餐</code>套餐。</p>
 <p>官网：<a href="https://a.0123456789.us.kg/#/login?code=QlyjwJLX">点我进入</a></p>
 <p>价格：<a href="https://pic2.ziyuan.wang/user/menthan/2024/10/20241023222134_dde13ffb8f8f0.png">点我查看</a></p>
-<p>优惠码：<code>shuiniu134</code></p>
+<p>优惠码：<code>shuiniu457</code></p>
 <h3 id="曲径通幽"><a href="#曲径通幽" class="headerlink" title="曲径通幽"></a>曲径通幽</h3><p><code>更新于2024年10月23日</code></p>
 <p><strong>需邮箱验证</strong>，新用户注册后可前往商店0元购买不限时400G流量<code>免费节点</code>套餐。</p>
 <p>官网：<a href="https://o0o00o.eu.org/#/register?code=WnJB52CY">点我进入</a></p>
 <p>价格：<a href="https://pic2.ziyuan.wang/user/menthan/2024/10/20241022232740_6f7b9accf3906.png">点我查看</a></p>
-<h3 id="白嫖机场"><a href="#白嫖机场" class="headerlink" title="白嫖机场"></a>白嫖机场</h3><p><code>更新于2024年10月22日</code></p>
-<p><strong>需邮箱验证</strong>，新用户注册后可前往商店使用<code>优惠码</code>0元购买30天50G流量<code>小小杯</code>套餐。</p>
-<p>官网：<a href="https://白嫖机场.org/#/login?code=q9SNtTOm">点我进入</a></p>
-<p>价格：<a href="https://pic2.ziyuan.wang/user/menthan/2024/10/20241021225158_d51afc3f68845.png">点我查看</a></p>
-<p>优惠码：<code>白嫖机场</code></p>
-<h3 id="AiK"><a href="#AiK" class="headerlink" title="AiK"></a>AiK</h3><p><code>更新于2024年10月21日</code></p>
-<p><strong>无需邮箱验证</strong>，新用户注册后可前往商店0元购买30天100G流量<code>公益</code>套餐。</p>
-<p>官网：<a href="https://a.aik88.top/#/register?code=7LJ7Lqyx">点我进入</a></p>
-<p>价格：<a href="https://pic2.ziyuan.wang/user/menthan/2024/10/20241020221135_d00a16f4484df.png">点我查看</a></p>
 <h3 id="漏网之鱼"><a href="#漏网之鱼" class="headerlink" title="漏网之鱼"></a>漏网之鱼</h3><p><code>更新于2024年10月20日</code></p>
 <p><strong>无需邮箱验证</strong>，新用户注册后可前往商店0元购买30天1000G流量<code>套餐1</code>套餐。</p>
 <p>官网：<a href="https://ch.louwangzhiyu.xyz/#/register?code=LpLlTDYF">点我进入</a></p>
 <p>价格：<a href="https://pic2.ziyuan.wang/user/menthan/2024/10/20241019233537_5e9a1e8ba6c12.png">点我查看</a></p>
 <h3 id="天际隧道"><a href="#天际隧道" class="headerlink" title="天际隧道"></a>天际隧道</h3><p><code>更新于2024年10月19日</code></p>
-<p><strong>需邮箱验证</strong>，新用户注册免费送不限时55G流量<code>公益套餐</code>套餐。</p>
+<p><strong>需邮箱验证</strong>，新用户注册免费送不限时10G流量<code>公益套餐</code>套餐。</p>
 <p>官网：<a href="https://tjsd.site/#/register?code=VeAEtnS6">点我进入</a></p>
 <p>价格：<a href="https://pic2.ziyuan.wang/user/menthan/2024/10/20241018191430_6f1dc198ff802.png">点我查看</a></p>
 <h3 id="新狮云"><a href="#新狮云" class="headerlink" title="新狮云"></a>新狮云</h3><p><code>更新于2024年10月18日</code></p>
 <p><strong>无需邮箱验证</strong>，新用户注册后可前往商店使用<code>优惠码</code>0元购买30天1000G流量<code>中杯套餐</code>套餐。</p>
 <p>官网：<a href="https://app.cloudlion.me/#/register?code=UtKLmKPa">点我进入</a></p>
 <p>价格：<a href="https://pic2.ziyuan.wang/user/menthan/2024/10/20241017224957_a358c6340e3e4.png">点我查看</a></p>
-<p>优惠码：<code>zn1bXSvZ</code></p>
-<h3 id="Kitty-Network"><a href="#Kitty-Network" class="headerlink" title="Kitty Network"></a>Kitty Network</h3><p><code>更新于2024年10月17日</code></p>
-<p><strong>需邮箱验证</strong>，新用户注册后可前往商店使用<code>优惠码</code>0元购买30天512G流量<code>波斯猫</code>套餐。</p>
-<p>官网：<a href="https://kitty.works/#/register?code=90E9tVkU">点我进入</a></p>
-<p>价格：<a href="https://pic2.ziyuan.wang/user/menthan/2024/10/20241016232700_f610913d1ab06.png">点我查看</a></p>
-<p>优惠码：<code>3168BWQU</code></p>
-<h3 id="三瓜云"><a href="#三瓜云" class="headerlink" title="三瓜云"></a>三瓜云</h3><p><code>更新于2024年10月16日</code></p>
-<p><strong>需邮箱验证</strong>，新用户注册后可前往商店使用<code>优惠码</code>0元购买30天50G流量<code>公益套餐</code>套餐。</p>
-<p>官网：<a href="https://snangua.com/#/register?code=aqMi23rl">点我进入</a></p>
-<p>价格：<a href="https://pic2.ziyuan.wang/user/menthan/2024/10/20241016003148_b712616223f4e.png">点我查看</a></p>
-<p>优惠码：<code>zn1bXSvZ</code></p>
-<h3 id="悟空云"><a href="#悟空云" class="headerlink" title="悟空云"></a>悟空云</h3><p><code>更新于2024年10月15日</code></p>
-<p><strong>可用临时邮箱注册</strong>，新用户注册后可前往商店0元购买30天15G流量<code>大圣福利套餐</code>套餐。</p>
-<p>官网：<a href="https://www.wukongyun.buzz/#/register?code=RRuJjtMm">点我进入</a></p>
-<p>价格：<a href="https://pic2.ziyuan.wang/user/menthan/2024/10/20241014142113_1d042f7e6af3a.png">点我查看</a></p>
-<h3 id="豆包"><a href="#豆包" class="headerlink" title="豆包"></a>豆包</h3><p><code>更新于2024年10月14日</code></p>
-<p><strong>无需邮箱验证</strong>，新用户注册后可前往商店使用<code>优惠码</code>0元购买30天100G流量<code>免费</code>套餐。</p>
-<p>官网：<a href="https://dash.doubao.one/#/register?code=UTxcWuQ5">点我进入</a></p>
-<p>价格：<a href="https://pic2.ziyuan.wang/user/menthan/2024/10/20241012214040_bde3e46ff2b4e.png">点我查看</a></p>
-<p>优惠码：<code>3SeUu7Fg</code></p>
-<h3 id="公益机场"><a href="#公益机场" class="headerlink" title="公益机场"></a>公益机场</h3><p><code>更新于2024年10月13日</code></p>
-<p><strong>无需邮箱验证</strong>，新用户注册后可前往商店使用<code>优惠码</code>0元购买30天1000G流量<code>公益套餐</code>套餐。</p>
-<p>官网：<a href="https://cloudlion.me/#/register?code=19BzsuU5">点我进入</a></p>
-<p>价格：<a href="https://pic2.ziyuan.wang/user/menthan/2024/10/20241012213454_b4f47aeee4d41.png">点我查看</a></p>
-<p>优惠码：<code>zn1bXSvZ</code></p>
-<h3 id="瑞乐机场"><a href="#瑞乐机场" class="headerlink" title="瑞乐机场"></a>瑞乐机场</h3><p><code>更新于2024年10月12日</code></p>
-<p><strong>需邮箱验证</strong>，新用户注册后可前往商店使用<code>优惠码</code>0元购买30天180G流量<code>[VIP2]标准</code>套餐。</p>
-<p>官网：<a href="https://airport.raloar.top/#/register?code=wOWideTM">点我进入</a></p>
-<p>价格：<a href="https://pic2.ziyuan.wang/user/menthan/2024/10/20241011225537_0b4c8e52e0383.png">点我查看</a></p>
-<p>优惠码：<code>RV6QzJTl</code></p>
-<h3 id="宝可梦-1"><a href="#宝可梦-1" class="headerlink" title="宝可梦"></a>宝可梦</h3><p><code>更新于2024年10月11日</code></p>
-<p><strong>需邮箱验证</strong>，新用户注册后可前往商店使用<code>优惠码</code>0元购买30天60G流量<code>入门精灵球</code>套餐。</p>
-<p>官网：<a href="https://web2.52pokemon.cc/register?code=TCFPXiOl">点我进入</a></p>
-<p>价格：<a href="https://pic2.ziyuan.wang/user/menthan/2024/10/20241010224444_a7ba9d3bc1824.png">点我查看</a></p>
-<p>优惠码：<code>十全十美</code></p>
-<h3 id="知己云"><a href="#知己云" class="headerlink" title="知己云"></a>知己云</h3><p><code>更新于2024年10月10日</code></p>
-<p><strong>需邮箱验证</strong>，新用户注册后可前往商店使用<code>优惠码</code>0元购买30天1000G流量<code>1000GB(限时开放)</code>套餐。</p>
-<p>官网：<a href="https://zjyun.xyz/#/login?code=ackjvK3W">点我进入</a></p>
-<p>价格：<a href="https://pic2.ziyuan.wang/user/menthan/2024/10/20241010000435_4f242bb5cd886.png">点我查看</a></p>
-<p>优惠码：<code>P7oRrDQchy</code></p>
+<p>优惠码：<code>rkoSTq1P</code></p>
 <h3 id="零北机场"><a href="#零北机场" class="headerlink" title="零北机场"></a>零北机场</h3><p><code>更新于2024年10月9日</code></p>
-<p><strong>无需邮箱验证</strong>，新用户注册后可前往商店使用<code>优惠码</code>0元购买30天50G流量<code>公益50g</code>套餐。</p>
+<p><strong>无需邮箱验证</strong>，新用户注册免费送30天10G流量<code>试用</code>套餐。</p>
 <p>官网：<a href="https://4.ni8.pro/#/register?code=vhJKL7lG">点我进入</a></p>
 <p>价格：<a href="https://pic2.ziyuan.wang/user/menthan/2024/10/20241008215153_ce6ca161dcf08.png">点我查看</a></p>
-<p>优惠码：<code>lanren</code></p>
-<h3 id="XQC"><a href="#XQC" class="headerlink" title="XQC"></a>XQC</h3><p><code>更新于2024年10月8日</code></p>
-<p><strong>无需邮箱验证</strong>，新用户注册后可前往商店0元购买30天10240G流量<code>达则兼济天下</code>套餐。</p>
-<p>官网：<a href="https://apii.xqc.best/#/register?code=f8Ga3UN1">点我进入</a></p>
-<p>价格：<a href="https://pic2.ziyuan.wang/user/menthan/2024/10/20241007224149_fe2edd2f8e848.png">点我查看</a></p>
-<h3 id="养老机场-1"><a href="#养老机场-1" class="headerlink" title="养老机场"></a>养老机场</h3><p><code>更新于2024年10月7日</code></p>
-<p><strong>无需邮箱验证</strong>，新用户注册后可前往商店使用<code>优惠码</code>0元购买30天20G流量<code>平安守护套餐-20G</code>套餐。</p>
-<p>官网：<a href="https://养老机场.com/#/register?code=t7sG8hHI">点我进入</a></p>
-<p>价格：<a href="https://pic2.ziyuan.wang/user/menthan/2024/10/20241006220311_37b5833eaaf5e.png">点我查看</a></p>
-<h3 id="ninecloud"><a href="#ninecloud" class="headerlink" title="ninecloud"></a>ninecloud</h3><p><code>更新于2024年10月6日</code></p>
-<p><strong>无需邮箱验证</strong>，新用户注册后可前往商店使用<code>优惠码</code>0元购买30天9999G流量<code>免费套餐</code>套餐。</p>
-<p>官网：<a href="https://free.ninecloud.co/#/register?code=T14KnOTP">点我进入</a></p>
-<p>价格：<a href="https://pic2.ziyuan.wang/user/menthan/2024/10/20241005192445_217abe3b8930d.png">点我查看</a></p>
-<p>优惠码：<code>ninecloud</code></p>
 <h3 id="迅联"><a href="#迅联" class="headerlink" title="迅联"></a>迅联</h3><p><code>更新于2024年10月5日</code></p>
 <p><strong>需邮箱验证</strong>，新用户注册免费送不限时30G流量<code>公益套餐</code>套餐。</p>
 <p>官网：<a href="https://xunlian.site/#/register?code=2jZfUoFQ">点我进入</a></p>
