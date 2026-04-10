@@ -4,16 +4,7 @@
   <url>
     <loc>https://maomeng.cf/2021/06/11/ji-chang-tui-jian-chang-qi-geng-xin/</loc>
     
-    <lastmod>2026-04-08</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://maomeng.cf/2021/06/01/chao-xiang-xi-de-fan-qiang-ke-pu-jiao-cheng/</loc>
-    
-    <lastmod>2025-11-06</lastmod>
+    <lastmod>2026-04-10</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -22,7 +13,7 @@
   <url>
     <loc>https://maomeng.cf/2021/06/05/win-mac-ios-android-yi-jian-fan-qiang/</loc>
     
-    <lastmod>2025-10-16</lastmod>
+    <lastmod>2026-04-10</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -31,7 +22,16 @@
   <url>
     <loc>https://maomeng.cf/2021/06/08/dai-li-gong-ju-ke-hu-duan/</loc>
     
-    <lastmod>2025-10-16</lastmod>
+    <lastmod>2026-04-10</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://maomeng.cf/2021/06/01/chao-xiang-xi-de-fan-qiang-ke-pu-jiao-cheng/</loc>
+    
+    <lastmod>2026-04-10</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -92,7 +92,7 @@
 
   
   <url>
-    <loc>https://maomeng.cf/tags/%E7%BF%BB%E5%A2%99/</loc>
+    <loc>https://maomeng.cf/tags/%E7%BD%91%E7%BB%9C%E4%BC%98%E5%8C%96/</loc>
     <lastmod>2026-04-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -101,7 +101,7 @@
 
   
   <url>
-    <loc>https://maomeng.cf/categories/%E7%BF%BB%E5%A2%99/</loc>
+    <loc>https://maomeng.cf/categories/%E7%BD%91%E7%BB%9C%E4%BC%98%E5%8C%96/</loc>
     <lastmod>2026-04-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
